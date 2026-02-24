@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Khám phá Miền Trung Việt Nam: Huế, Đà Nẵng, Hội An, Nha Trang. Di sản cố đô, biển, phố cổ và resort ven biển.">
+  <meta name="keywords" content="Miền Trung, Huế, Đà Nẵng, Hội An, Nha Trang, Quảng Nam, Thừa Thiên Huế">
+  <title>Miền Trung Việt Nam | Du lịch Việt Nam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo">Du lịch <span>Việt Nam</span></a>
+      <nav class="nav-main" aria-label="Điều hướng chính">
+        <a href="../index.html">Trang chủ</a>
+        <a href="northern.html">Miền Bắc</a>
+        <a href="central.html" aria-current="page">Miền Trung</a>
+        <a href="southern.html">Miền Nam</a>
+        <a href="../map.html">Bản đồ</a>
+        <button type="button" id="search-trigger" class="search-trigger" aria-label="Mở tìm kiếm">Tìm kiếm</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <nav class="breadcrumb">
+          <a href="../index.html">Trang chủ</a><span>/</span> Miền Trung
+        </nav>
+        <h1 class="section-title">Miền Trung Việt Nam</h1>
+        <div class="region-intro">
+          <p>Dải ven biển miền Trung kết hợp lịch sử cố đô, phố cổ UNESCO và bãi biển dài. Huế giữ kinh đô triều Nguyễn; Đà Nẵng là thành phố hiện đại và cửa ngõ núi, biển; Hội An là phố cổ đèn lồng; Nha Trang là trung tâm biển và đảo.</p>
+        </div>
+        <div class="dest-grid">
+          <article class="dest-card">
+            <a href="../destinations/hue.html">
+              <img src="https://media.vietravel.com/images/Content/dia-diem-du-lich-hue-01.jpg" alt="Huế" width="600" height="400">
+              <div class="card-body">
+                <h3>Huế</h3>
+                <p class="tagline">Cố đô và di sản hoàng gia</p>
+                <span class="province">Thừa Thiên Huế</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/danang.html">
+              <img src="https://i1-dulich.vnecdn.net/2022/06/03/cau-vang-jpeg-9366-1654247848.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=lsuryIIgmI4xtUp5BVdw3g" alt="Đà Nẵng" width="600" height="400">
+              <div class="card-body">
+                <h3>Đà Nẵng</h3>
+                <p class="tagline">Biển, cầu và cửa ngõ di sản</p>
+                <span class="province">Đà Nẵng</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/hoi-an.html">
+              <img src="https://vietnam.travel/sites/default/files/inline-images/shutterstock_1303493764.jpg" alt="Hội An" width="600" height="400">
+              <div class="card-body">
+                <h3>Hội An</h3>
+                <p class="tagline">Phố cổ và đèn lồng</p>
+                <span class="province">Quảng Nam</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/nha-trang.html">
+              <img src="https://letsflytravel.vn/wp-content/uploads/2024/10/bien-nha-trang-e1730197234820-2048x1328.webp" alt="Nha Trang" width="600" height="400">
+              <div class="card-body">
+                <h3>Nha Trang</h3>
+                <p class="tagline">Thành phố biển và đảo</p>
+                <span class="province">Khánh Hòa</span>
+              </div>
+            </a>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div><h4>Vùng miền</h4><ul><li><a href="northern.html">Miền Bắc</a></li><li><a href="central.html">Miền Trung</a></li><li><a href="southern.html">Miền Nam</a></li></ul></div>
+        <div><h4>Khám phá</h4><ul><li><a href="../map.html">Bản đồ tương tác</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><p>&copy; Du lịch Việt Nam.</p></div>
+    </div>
+  </footer>
+
+  <div id="search-overlay" class="search-overlay" role="dialog" aria-label="Tìm kiếm điểm đến" aria-modal="true">
+    <button type="button" id="search-close" class="search-close" aria-label="Đóng tìm kiếm">&times;</button>
+    <div class="search-box-wrap">
+      <label for="search-input" class="sr-only">Tìm tỉnh hoặc điểm đến</label>
+      <input type="search" id="search-input" class="search-input" placeholder="Tìm tỉnh hoặc điểm đến..." autocomplete="off">
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
+  <script src="../js/app.js"></script>
+</body>
+</html>

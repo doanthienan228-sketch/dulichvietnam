@@ -1,0 +1,490 @@
+{
+  "northern": [
+    {
+      "id": "hanoi",
+      "name": "Hà Nội",
+      "province": "Hà Nội",
+      "tagline": "Thủ đô ngàn năm văn hiến",
+      "image": "https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg",
+      "description": "Hà Nội—thủ đô Việt Nam—kết hợp đền chùa cổ kính, kiến trúc Pháp thuộc và nhịp sống phố phường sôi động. Khám phá Phố Cổ, Hồ Hoàn Kiếm và các bảo tàng đẳng cấp thế giới.",
+      "attractions": ["Hồ Hoàn Kiếm", "Văn Miếu Quốc Tử Giám", "Lăng Chủ tịch Hồ Chí Minh", "Phố Cổ", "Hồ Tây", "Hoàng thành Thăng Long"],
+      "cultural": ["Múa rối nước", "Văn hóa ẩm thực đường phố", "Làng nghề truyền thống", "Tết và Trung thu"],
+      "tips": ["Đi sáng sớm để tránh đông", "Thử phở và bún chả", "Mặc cả khi mua ở Phố Cổ", "Thuê xe đạp dạo quanh"],
+      "gallery": [
+        { "url": "https://owa.bestprice.vn/images/destinations/uploads/pho-co-ha-noi-601a111a931df.jpg", "alt": "Phố Cổ Hà Nội", "category": "địa danh" },
+        { "url": "https://static.vinwonders.com/production/den-ngoc-son-banner-min.jpg", "alt": "Hồ Hoàn Kiếm và đền Ngọc Sơn", "category": "phong cảnh" },
+        { "url": "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/10/4/1403601/Pho-1-6.jpg", "alt": "Phở Việt Nam", "category": "ẩm thực" },
+        { "url": "https://vnp.1cdn.vn/2023/01/04/san-khau-mua-roi-nuoc-17.jpeg", "alt": "Múa rối nước", "category": "văn hóa" },
+        { "url": "https://ohayo-onsen.com/wp-content/uploads/2024/05/van-mieu-quoc-tu-giam-1.webp", "alt": "Văn Miếu Quốc Tử Giám", "category": "địa danh" },
+        { "url": "https://cafefcdn.com/203337114487263232/2022/9/24/photo-10-16640158570301670512881.jpg", "alt": "Đạp xe phố Hà Nội", "category": "hoạt động" }
+      ],
+      "events": [
+        { "name": "Tết Nguyên Đán", "dates": "Cuối tháng 1 – đầu tháng 2 (âm lịch)", "description": "Lễ hội lớn nhất Việt Nam đón năm mới âm lịch. Gia đình sum họp, phố trang trí hoa đào, quất; đền chùa đông nghịt người đi lễ.", "significance": "Thời điểm tốt nhất để trải nghiệm phong tục truyền thống và Hà Nội vào xuân.", "image": "https://20hotel.vn/wp-content/uploads/2023/12/du-lich-tet-ha-noi-2023-1.jpg", "recommendedThingsToDo": ["Dạo phố Hồ Hoàn Kiếm ngắm hoa đào", "Viếng đền Ngọc Sơn và Văn Miếu", "Ăn bánh chưng, dưa hành tại quán truyền thống", "Xem múa lân, chơi pháo hoa"] },
+        { "name": "Tết Trung Thu", "dates": "Rằm tháng 8 âm lịch (tháng 9/10)", "description": "Trẻ em rước đèn, gia đình phá cỗ bánh trung thu, múa lân khắp Phố Cổ. Lễ hội mùa màng và sum vầy.", "significance": "Một trong những lễ hội đẹp nhất; rước đèn và biểu diễn đường phố.", "image": "https://static.vinwonders.com/production/dia-diem-vui-choi-trung-thu-ha-noi-banner-1.jpg", "recommendedThingsToDo": ["Rước đèn quanh Phố Cổ", "Mua bánh trung thu tại Hàng Mã", "Xem múa lân và biểu diễn đường phố", "Chụp ảnh đèn lồng"] },
+        { "name": "Tranh gốm mosaic Hà Nội", "dates": "Quanh năm", "description": "Bức tranh gốm dài nhất thế giới chạy dọc đê sông Hồng. Nghệ thuật cộng đồng kể lịch sử và văn hóa Việt Nam.", "significance": "Công trình nghệ thuật công cộng; đi bộ hoặc đạp xe ven sông rất đẹp.", "image": "https://static.vinwonders.com/production/con-duong-gom-su-1.jpg", "recommendedThingsToDo": ["Đạp xe dọc đê sông Hồng", "Chụp ảnh các mảng tranh gốm", "Dạo bình minh hoặc hoàng hôn"] }
+      ],
+      "overview": {
+        "introduction": "Hà Nội là thủ đô hơn một nghìn năm tuổi của Việt Nam, nơi hội tụ đền chùa cổ kính, kiến trúc Pháp thuộc và nhịp sống phố phường sôi động. Thành phố vừa giữ nét trầm mặc bên Hồ Hoàn Kiếm, vừa nhộn nhịp ở Phố Cổ và các khu vực hiện đại.",
+        "historicalBackground": "Thăng Long – Hà Nội được chọn làm kinh đô từ năm 1010 dưới thời Lý Thái Tổ. Trải qua các triều Lý, Trần, Lê, Nguyễn và thời kỳ Pháp thuộc, Hà Nội vẫn là trung tâm chính trị, văn hóa của cả nước. Năm 2010 thành phố kỷ niệm 1000 năm Thăng Long.",
+        "whyFamous": "Hà Nội nổi tiếng với Phố Cổ 36 phố phường, Hồ Hoàn Kiếm, Văn Miếu Quốc Tử Giám (trường đại học đầu tiên Việt Nam), Lăng Bác, ẩm thực đường phố (phở, bún chả, cà phê trứng) và múa rối nước. UNESCO công nhận Hoàng thành Thăng Long là Di sản văn hóa thế giới."
+      },
+      "detailedInfo": {
+        "geography": { "location": "Miền Bắc Việt Nam, bên bờ sông Hồng.", "climate": "Nhiệt đới gió mùa; mùa đông lạnh khô (tháng 11–2), mùa hè nóng ẩm (tháng 5–8).", "bestSeason": "Tháng 10–4: mát, ít mưa; Tết âm lịch để trải nghiệm lễ hội." },
+        "history": { "summary": "Từ kinh đô Thăng Long (1010) đến thời Pháp thuộc và hiện đại, Hà Nội luôn là trung tâm quyền lực và văn hóa.", "keyEvents": ["1010: Lý Thái Tổ dời đô về Thăng Long", "Thế kỷ XIX: Nhà Nguyễn đổi tên thành Hà Nội", "1883–1954: Thủ đô Đông Dương thuộc Pháp", "1945: Tuyên ngôn độc lập tại quảng trường Ba Đình", "1976: Thủ đô nước Cộng hòa Xã hội chủ nghĩa Việt Nam"] },
+        "culture": { "customs": "Văn hóa trà, cà phê; ẩm thực đường phố; làng nghề (gốm Bát Tràng, lụa Vạn Phúc); Tết và Trung thu được tổ chức rất đậm nét.", "heritage": "Hoàng thành Thăng Long (UNESCO), Văn Miếu, Nhã nhạc cung đình Huế (liên quan di sản), múa rối nước, phố cổ 36 phố phường." }
+      },
+      "topAttractions": [
+        { "name": "Hồ Hoàn Kiếm", "description": "Trái tim của Hà Nội với Tháp Rùa, đền Ngọc Sơn, cầu Thê Húc. Không gian xanh giữa phố, lý tưởng để dạo bộ sáng sớm hoặc chiều tà.", "image": "https://static.vinwonders.com/production/den-ngoc-son-banner-min.jpg", "locationInProvince": "Quận Hoàn Kiếm, trung tâm thành phố", "openingHours": "Công viên: 24/24; Đền Ngọc Sơn: 8:00–18:00", "entranceFee": "Vào công viên miễn phí; Đền Ngọc Sơn khoảng 30.000 VND", "travelTips": "Đi sáng sớm để tránh đông và chụp ảnh đẹp.", "bestTimeToVisit": "Sáng 6–8h hoặc chiều 17–19h" },
+        { "name": "Văn Miếu Quốc Tử Giám", "description": "Quần thể kiến trúc Nho giáo, trường đại học đầu tiên của Việt Nam. 82 bia tiến sĩ, sân rồng và kiến trúc cổ tuyệt đẹp.", "image": "https://ohayo-onsen.com/wp-content/uploads/2024/05/van-mieu-quoc-tu-giam-1.webp", "locationInProvince": "Quận Đống Đa", "openingHours": "7:30–17:30 (mùa hè đến 18:00)", "entranceFee": "Khoảng 30.000 VND", "travelTips": "Thuê hướng dẫn viên hoặc audio guide để hiểu lịch sử.", "bestTimeToVisit": "Sáng sớm hoặc cuối chiều" },
+        { "name": "Lăng Chủ tịch Hồ Chí Minh", "description": "Khu di tích Ba Đình với Lăng Bác, nhà sàn, bảo tàng Hồ Chí Minh. Nơi tưởng niệm và tìm hiểu lịch sử hiện đại Việt Nam.", "image": "https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg", "locationInProvince": "Quận Ba Đình", "openingHours": "Sáng 7:30–10:30 (mùa hè đến 11:00); Chiều thứ 2–6 không mở", "entranceFee": "Miễn phí vào quảng trường; vào Lăng miễn phí (đăng ký)", "travelTips": "Mặc trang phục lịch sự, không mang túi lớn.", "bestTimeToVisit": "Sáng thứ 3–5–7–Chủ nhật" },
+        { "name": "Phố Cổ", "description": "Khu phố 36 phố phường với nhà ống, quán cà phê, tiệm may, hàng ăn. Trải nghiệm mua sắm, ẩm thực và văn hóa đường phố.", "image": "https://owa.bestprice.vn/images/destinations/uploads/pho-co-ha-noi-601a111a931df.jpg", "locationInProvince": "Quận Hoàn Kiếm", "openingHours": "Quanh năm, quán mở từ sáng đến khuya", "entranceFee": "Không", "travelTips": "Mặc cả khi mua đồ, thử bún chả và cà phê trứng.", "bestTimeToVisit": "Chiều tối để ngắm đèn và không khí sôi động" },
+        { "name": "Hồ Tây", "description": "Hồ nước ngọt lớn nhất nội thành, ven hồ có chùa Trấn Quốc, quán cà phê và không gian thoáng đãng.", "image": "https://cafefcdn.com/203337114487263232/2022/9/24/photo-10-16640158570301670512881.jpg", "locationInProvince": "Quận Tây Hồ", "openingHours": "Công cộng 24/24", "entranceFee": "Không", "travelTips": "Thuê xe đạp hoặc đi dạo quanh hồ, ghé chùa Trấn Quốc.", "bestTimeToVisit": "Hoàng hôn" },
+        { "name": "Hoàng thành Thăng Long", "description": "Di sản UNESCO, khu khảo cổ và kiến trúc cung đình từ thời Lý đến Nguyễn. Cột cờ Hà Nội nằm trong khu vực.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Quận Ba Đình", "openingHours": "8:00–17:00 (thứ 2 đóng cửa)", "entranceFee": "Khoảng 30.000 VND", "travelTips": "Dành 2–3 giờ để xem triển lãm và khu ngoài trời.", "bestTimeToVisit": "Sáng hoặc chiều mát" }
+      ],
+      "food": {
+        "traditionalDishes": [
+          { "name": "Phở", "description": "Bún nước dùng xương ninh, thịt bò hoặc gà, rau thơm. Món biểu tượng ẩm thực Việt." },
+          { "name": "Bún chả", "description": "Bún ăn kèm chả nướng và nước chấm chua ngọt, rau sống. Đặc sản Hà Nội." },
+          { "name": "Bún đậu mắm tôm", "description": "Bún, đậu rán, chả cốm ăn với mắm tôm. Món dân dã rất được ưa chuộng." },
+          { "name": "Chả cá Lã Vọng", "description": "Cá lăng nướng ăn với bún, rau thì là, lạc. Món truyền thống phố Chả Cá." }
+        ],
+        "localSnacks": ["Bánh cuốn Thanh Trì", "Bánh tôm Hồ Tây", "Cà phê trứng", "Kem Tràng Tiền", "Bánh mì pate"],
+        "marketsOrRestaurants": "Chợ Đồng Xuân (đồ khô, quà); Phố Tống Duy Tân, Hàng Buồm (ăn uống); Bún chả Hàng Mành, Phở Gia Truyền Bát Đàn; Cà phê Giảng, Cà phê Phố Cổ.",
+        "dishImages": [
+          { "url": "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/10/4/1403601/Pho-1-6.jpg", "alt": "Phở Hà Nội" },
+          { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Bún chả" }
+        ]
+      },
+      "accommodation": {
+        "luxury": ["Sofitel Legend Metropole Hanoi", "InterContinental Hanoi Westlake", "JW Marriott Hanoi"],
+        "midRange": ["Hanoi La Siesta Central", "Mövenpick Hanoi", "Hanoi Old Quarter hotels"],
+        "budget": ["Hostels Phố Cổ (Hanoi Backpackers, Old Quarter)", "Khách sạn nhỏ quanh Hồ Hoàn Kiếm"],
+        "notableResorts": ["N/A – thành phố"],
+        "suggestedAreas": "Phố Cổ (tiện đi bộ, ăn uống); quanh Hồ Hoàn Kiếm; Ba Đình nếu muốn yên tĩnh gần Lăng."
+      },
+      "transportation": {
+        "howToGetThere": { "plane": "Sân bay Nội Bài (35 km); taxi/grab khoảng 45–60 phút.", "train": "Ga Hà Nội (Lê Duẩn) nối với TP.HCM, Lào Cai, Hải Phòng.", "bus": "Bến xe Giáp Bát, Mỹ Đình; xe liên tỉnh từ nhiều thành phố.", "car": "Cao tốc nối Nội Bài, Hải Phòng, Lào Cai." },
+        "withinCity": "Xe máy thuê, Grab/Be; xe đạp (Phố Cổ); taxi; xe buýt công cộng.",
+        "estimatedTimes": "Nội Bài – trung tâm: 45–60 phút; Ga Hà Nội – Phố Cổ: 15–20 phút."
+      },
+      "itinerary": {
+        "oneDay": ["Sáng: Hồ Hoàn Kiếm, đền Ngọc Sơn", "Trưa: Phố Cổ, ăn bún chả", "Chiều: Văn Miếu Quốc Tử Giám", "Tối: Dạo Phố Cổ, ăn tối và cà phê"],
+        "twoDay": ["Ngày 1: Hồ Hoàn Kiếm, Phố Cổ, Văn Miếu, tối Phố Cổ", "Ngày 2: Lăng Bác, Hoàng thành Thăng Long, bảo tàng hoặc Hồ Tây"],
+        "threeDay": ["Ngày 1: Hồ Hoàn Kiếm, đền Ngọc Sơn, Phố Cổ, ẩm thực", "Ngày 2: Văn Miếu, Lăng Bác, Hoàng thành", "Ngày 3: Hồ Tây, chùa Trấn Quốc, làng gốm Bát Tràng hoặc bảo tàng"]
+      },
+      "practicalTips": {
+        "safety": "Cẩn thận khi băng qua đường (xe máy đông). Giữ túi xách, điện thoại khi đi phố đông.",
+        "weather": "Mùa đông cần áo khoác; mùa hè nóng ẩm, mang ô và nước.",
+        "whatToPrepare": "Giày đi bộ, kem chống nắng, thuốc tiêu hóa nhẹ; tiền mặt ở Phố Cổ nhiều quán chỉ nhận tiền mặt.",
+        "localEtiquette": "Vào đền chùa mặc kín đáo; không chỉ chân vào bàn thờ; hỏi giá trước khi mua đồ lưu niệm."
+      },
+      "video": "https://www.youtube.com/embed/GAOjKPY_2go"
+    },
+    {
+      "id": "halong-bay",
+      "name": "Vịnh Hạ Long",
+      "province": "Quảng Ninh",
+      "tagline": "Di sản thiên nhiên thế giới UNESCO",
+      "image": "https://tructhang.vn/wp-content/uploads/2022/08/Vinh-Ha-Long-1024x576.jpg",
+      "description": "Vịnh Hạ Long với làn nước xanh ngọc và hàng ngàn đảo đá vôi tạo nên một trong những khung cảnh biển đẹp nhất thế giới. Du thuyền, chèo kayak hoặc khám phá làng chài nổi.",
+      "attractions": ["Núi đá vôi", "Hang Sửng Sốt", "Đảo Titop", "Làng chài nổi", "Đảo Cát Bà", "Vịnh Bái Tử Long"],
+      "cultural": ["Truyền thuyết Rồng xuống", "Di sản cộng đồng đánh cá", "Thuyền buồm truyền thống"],
+      "tips": ["Đặt tour qua đêm để trải nghiệm trọn vẹn", "Mang áo khoác—trên vịnh có thể mát", "Chọn Bái Tử Long để yên tĩnh hơn"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "alt": "Vịnh Hạ Long đảo đá và nước xanh", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1568967729548-e3db1913a8d2?w=800", "alt": "Thuyền buồm truyền thống trên vịnh", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Chèo kayak giữa núi đá", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800", "alt": "Bên trong Hang Sửng Sốt", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Đời sống làng chài nổi", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "alt": "Hoàng hôn trên vịnh Hạ Long", "category": "phong cảnh" }
+      ],
+      "events": [
+        { "name": "Lễ hội Carnaval Hạ Long", "dates": "Cuối tháng 4 – đầu tháng 5", "description": "Lễ hội kéo dài một tuần với diễu hành, biểu diễn và thể thao dưới nước. Tôn vinh di sản thiên nhiên và văn hóa vịnh Hạ Long và Quảng Ninh.", "significance": "Sự kiện cao điểm; kết hợp văn hóa, thể thao và du lịch.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Xem diễu hành đường phố", "Tham gia thể thao nước", "Chụp ảnh lễ hội", "Đặt tour du thuyền ưu đãi"] },
+        { "name": "Tuần Du lịch Quảng Ninh", "dates": "Tháng 4", "description": "Sự kiện quảng bá, biểu diễn văn hóa và gói du thuyền đặc biệt giới thiệu vịnh Hạ Long và tỉnh.", "significance": "Thời điểm tốt để săn ưu đãi và xem biểu diễn văn hóa.", "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600", "recommendedThingsToDo": ["Săn gói du thuyền giảm giá", "Xem biểu diễn văn hóa", "Thăm bảo tàng Quảng Ninh"] }
+      ],
+      "overview": { "introduction": "Vịnh Hạ Long với hàng ngàn đảo đá vôi và làn nước xanh ngọc là Di sản thiên nhiên thế giới UNESCO, biểu tượng du lịch Việt Nam.", "historicalBackground": "Theo truyền thuyết, rồng xuống hạ giới tạo nên vịnh. Vùng biển từng là nơi sinh sống của cộng đồng làng chài; nay bảo tồn cảnh quan và văn hóa biển.", "whyFamous": "Phong cảnh đảo đá và hang động độc đáo; du thuyền qua đêm, kayak, làng chài và di sản thiên nhiên được UNESCO công nhận." },
+      "detailedInfo": { "geography": { "location": "Vịnh biển phía đông bắc, tỉnh Quảng Ninh.", "climate": "Nhiệt đới gió mùa; mùa hè nóng ẩm, mùa đông mát. Trên vịnh thường mát hơn đất liền.", "bestSeason": "Tháng 10–4: trời đẹp, ít mưa; tránh mùa bão (tháng 6–9)." }, "history": { "summary": "Vịnh hình thành qua hàng triệu năm; con người định cư ven vịnh từ lâu, sống bằng đánh cá và nay phát triển du lịch.", "keyEvents": ["1994: UNESCO công nhận Di sản thiên nhiên thế giới", "Mở rộng du thuyền và dịch vụ du lịch từ những năm 2000"] }, "culture": { "customs": "Làng chài truyền thống, thuyền buồm; truyền thuyết Rồng và tiên; ẩm thực hải sản tươi.", "heritage": "Di sản thiên nhiên UNESCO; văn hóa làng chài nổi; hang động và đảo đá vôi." } },
+      "topAttractions": [
+        { "name": "Hang Sửng Sốt", "description": "Hang động rộng và đẹp trên đảo Bồ Hòn với nhũ đá hình thù kỳ thú.", "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800", "locationInProvince": "Đảo Bồ Hòn, vịnh Hạ Long", "openingHours": "Theo tour du thuyền", "entranceFee": "Trong gói tour", "travelTips": "Mang giày chống trơn, đi theo đoàn.", "bestTimeToVisit": "Sáng sớm để tránh đông" },
+        { "name": "Đảo Titop", "description": "Đảo nhỏ có bãi cát và điểm leo lên đỉnh ngắm toàn cảnh vịnh.", "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "locationInProvince": "Vịnh Hạ Long", "openingHours": "Theo tour", "entranceFee": "Trong gói tour", "travelTips": "Mang đồ bơi, nước và kem chống nắng.", "bestTimeToVisit": "Chiều để ngắm hoàng hôn" },
+        { "name": "Làng chài nổi", "description": "Trải nghiệm đời sống làng chài truyền thống, mua hải sản tươi hoặc tham gia chèo thuyền kayak.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Vịnh Hạ Long, Vịnh Bái Tử Long", "openingHours": "Quanh ngày", "entranceFee": "Tour kayak/ thuyền riêng", "travelTips": "Chọn tour Bái Tử Long nếu muốn yên tĩnh hơn.", "bestTimeToVisit": "Sáng sớm" },
+        { "name": "Vịnh Bái Tử Long", "description": "Vịnh kề Hạ Long, ít đông hơn, cảnh quan tương tự với đảo đá và làng chài.", "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "locationInProvince": "Phía đông vịnh Hạ Long", "openingHours": "Tour theo ngày", "entranceFee": "Gói tour", "travelTips": "Phù hợp gia đình và người muốn tránh đông.", "bestTimeToVisit": "Cả ngày tour" },
+        { "name": "Đảo Cát Bà", "description": "Đảo lớn gần vịnh với vườn quốc gia, bãi biển và làng chài. Có thể kết hợp tour từ Hạ Long hoặc ở lại vài ngày.", "image": "https://images.unsplash.com/photo-1568967729548-e3db1913a8d2?w=800", "locationInProvince": "Huyện Cát Hải, Hải Phòng (cạnh Quảng Ninh)", "openingHours": "Quanh ngày; vườn quốc gia theo giờ", "entranceFee": "Phà + phí vào vườn quốc gia (nếu thăm)", "travelTips": "Đặt phòng sớm nếu ở qua đêm; thuê xe máy khám phá đảo.", "bestTimeToVisit": "Tháng 4–10" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Chả mực", "description": "Chả làm từ mực tươi nướng hoặc chiên." }, { "name": "Hải sản tươi", "description": "Tôm, cua, ghẹ, ốc, cá nướng hoặc hấp tại làng chài." }], "localSnacks": ["Sứa trộn", "Bánh cuốn hải sản"], "marketsOrRestaurants": "Ăn trên du thuyền; nhà hàng ven bến Bãi Cháy; chợ hải sản Hạ Long.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Hải sản vịnh" }] },
+      "accommodation": { "luxury": ["Vinpearl Resort & Spa Hạ Long", "Wyndham Legend Halong"], "midRange": ["Khách sạn tại Bãi Cháy", "Du thuyền 4 sao qua đêm"], "budget": ["Hostel Bãi Cháy", "Du thuyền 2–3 sao"], "notableResorts": ["Du thuyền Heritage Line", "Orchid Cruises"], "suggestedAreas": "Bãi Cháy (gần bến tàu); trên du thuyền qua đêm." },
+      "transportation": { "howToGetThere": { "bus": "Xe từ Hà Nội (4–5h) đến Bãi Cháy; shuttle nhiều hãng.", "car": "Cao tốc Hà Nội – Hạ Long khoảng 4h." }, "withinCity": "Xe máy thuê tại Bãi Cháy; taxi; đi lại chủ yếu bằng du thuyền/tour.", "estimatedTimes": "Hà Nội – Bãi Cháy: 4–5h; Bến – vịnh: 30–45 phút bằng tàu." },
+      "itinerary": { "oneDay": ["Sáng: Xuất phát từ Hà Nội", "Trưa–chiều: Tour 4–6h trên vịnh (hang, đảo Titop)", "Tối: Về Hà Nội hoặc ở Bãi Cháy"], "twoDay": ["Ngày 1: Hà Nội – Hạ Long, tour nửa ngày hoặc lên du thuyền", "Ngày 2: Sáng kayak/làng chài, trưa về Hà Nội"], "threeDay": ["Ngày 1: Đi Hạ Long, chiều dạo Bãi Cháy", "Ngày 2: Du thuyền qua đêm (hang, Titop, kayak)", "Ngày 3: Sáng trên vịnh, về Hà Nội"] },
+      "practicalTips": { "safety": "Tuân thủ hướng dẫn trên tàu; mang áo phao khi kayak.", "weather": "Mang áo khoác nhẹ trên vịnh; tránh mùa bão.", "whatToPrepare": "Kem chống nắng, thuốc say sóng (nếu dễ say), đồ bơi.", "localEtiquette": "Không xả rác xuống vịnh; tôn trọng làng chài." }
+    },
+    {
+      "id": "sapa",
+      "name": "Sa Pa",
+      "province": "Lào Cai",
+      "tagline": "Ruộng bậc thang và đồng bào dân tộc",
+      "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800",
+      "description": "Sa Pa có cảnh núi non hùng vĩ, ruộng bậc thang và gặp gỡ cộng đồng H'Mông, Dao. Trekking và homestay là điểm nhấn.",
+      "attractions": ["Đỉnh Fansipan", "Thung lũng Mường Hoa", "Bản Cát Cát", "Chợ Bắc Hà", "Thác Bạc", "Thác Tình Yêu"],
+      "cultural": ["Truyền thống H'Mông và Dao Đỏ", "Chợ vùng cao hàng tuần", "Nhuộm chàm và thêu thùa"],
+      "tips": ["Đi tháng 9–11 để ngắm lúa chín", "Đặt homestay trước", "Mang giày chắc cho trekking"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800", "alt": "Ruộng bậc thang Sa Pa", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1568967729548-e3db1913a8d2?w=800", "alt": "Đỉnh Fansipan và cáp treo", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Phụ nữ H'Mông trang phục truyền thống", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "alt": "Chợ Bắc Hà cuối tuần", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Trekking thung lũng Mường Hoa", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "alt": "Homestay và bữa ăn địa phương", "category": "ẩm thực" }
+      ],
+      "events": [
+        { "name": "Đua ngựa Bắc Hà", "dates": "Tháng 6 (hàng năm)", "description": "Đua ngựa và hội chợ truyền thống tại Bắc Hà, với trang phục dân tộc, ẩm thực và hàng thủ công địa phương.", "significance": "Cơ hội hiếm thấy văn hóa ngựa vùng cao và lễ hội dân tộc.", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600", "recommendedThingsToDo": ["Xem đua ngựa", "Mua thổ cẩm và đồ thủ công", "Ăn thịt trâu gác bếp", "Chụp ảnh trang phục dân tộc"] },
+        { "name": "Chợ tình Khau Vai", "dates": "27 tháng 3 âm lịch", "description": "Chợ một ngày tại Khau Vai nơi các dân tộc gặp gỡ. Gắn với tình yêu và mai mối; nay là sự kiện văn hóa và giao thương.", "significance": "Lễ hội dân tộc độc đáo; nhiều màu sắc và đẹp để chụp ảnh.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Dạo chợ từ sáng sớm", "Xem hát giao duyên", "Mua mật ong, thổ cẩm", "Chụp ảnh đồng bào"] },
+        { "name": "Tuần Văn hóa – Du lịch Sa Pa", "dates": "Tháng 5", "description": "Trình diễn âm nhạc, múa, trang phục và nghề thủ công dân tộc. Gồm diễu hành và biểu diễn tại thị trấn Sa Pa.", "significance": "Thời điểm tốt để trải nghiệm nhiều truyền thống dân tộc trong một nơi.", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=600", "recommendedThingsToDo": ["Xem diễu hành trang phục", "Học nhuộm chàm, thêu", "Thử ẩm thực các dân tộc"] }
+      ],
+      "overview": { "introduction": "Sa Pa là thị trấn nghỉ mát trên cao nguyên Lào Cai, nổi tiếng với ruộng bậc thang, đỉnh Fansipan và cộng đồng người H'Mông, Dao.", "historicalBackground": "Người Pháp xây dựng Sa Pa như station climatique từ cuối thế kỷ XIX; sau đó trở thành điểm du lịch và giao lưu văn hóa vùng cao.", "whyFamous": "Ruộng bậc thang đẹp nhất Việt Nam, trekking Fansipan, chợ tình, homestay và văn hóa dân tộc thiểu số." },
+      "detailedInfo": { "geography": { "location": "Huyện Sa Pa, tỉnh Lào Cai, vùng Tây Bắc.", "climate": "Ôn đới núi cao; mát quanh năm, có thể lạnh và sương mù vào mùa đông.", "bestSeason": "Tháng 9–11: lúa chín vàng; tháng 12–2: có tuyết/sương muối; tháng 3–5: hoa." }, "history": { "summary": "Sa Pa phát triển từ trạm nghỉ dưỡng của người Pháp; sau 1990 mở cửa du lịch và trở thành điểm đến hàng đầu.", "keyEvents": ["Cuối thế kỷ XIX: Người Pháp khám phá và xây dựng", "1993: Mở cửa du lịch quốc tế", "2016: Cáp treo Fansipan đi vào hoạt động"] }, "culture": { "customs": "Chợ phiên (Bắc Hà, Cán Cấu); nhuộm chàm, thêu thùa của người H'Mông; thịt trâu gác bếp, rượu ngô.", "heritage": "Ruộng bậc thang; trang phục và trang sức dân tộc; làng bản H'Mông, Dao." } },
+      "topAttractions": [
+        { "name": "Đỉnh Fansipan", "description": "Nóc nhà Đông Dương 3.143 m; leo bộ hoặc cáp treo lên đỉnh ngắm mây và cảnh núi.", "image": "https://images.unsplash.com/photo-1568967729548-e3db1913a8d2?w=800", "locationInProvince": "Xã San Sả Hồ, Sa Pa", "openingHours": "Cáp treo 7:30–17:30", "entranceFee": "Cáp treo + tàu leo núi khoảng 750.000–900.000 VND", "travelTips": "Mang áo ấm; mua vé online trước vào cuối tuần.", "bestTimeToVisit": "Sáng sớm để tránh mây mù" },
+        { "name": "Thung lũng Mường Hoa", "description": "Thung lũng ruộng bậc thang và bản làng; trekking qua Lao Chải, Tả Van, Hầu Thào.", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800", "locationInProvince": "Phía nam thị trấn Sa Pa", "openingHours": "Quanh ngày", "entranceFee": "Phí vào bản (khoảng 70.000–90.000 VND)", "travelTips": "Thuê guide địa phương hoặc đi tour 1–2 ngày.", "bestTimeToVisit": "Tháng 9–10 lúa chín" },
+        { "name": "Bản Cát Cát", "description": "Làng người H'Mông gần thị trấn; xem dệt vải, thác Cát Cát và mua thổ cẩm.", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "locationInProvince": "Xã San Sả Hồ", "openingHours": "7:00–17:00", "entranceFee": "Khoảng 70.000 VND", "travelTips": "Đi bộ xuống bản, có thể đi xe về.", "bestTimeToVisit": "Sáng hoặc chiều" },
+        { "name": "Chợ Bắc Hà", "description": "Chợ phiên cuối tuần (Chủ nhật) với trang phục đủ sắc, thổ cẩm, gia súc và ẩm thực.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "locationInProvince": "Thị trấn Bắc Hà, huyện Bắc Hà", "openingHours": "Chủ nhật sáng", "entranceFee": "Không", "travelTips": "Xuất phát sớm từ Sa Pa (khoảng 2h).", "bestTimeToVisit": "Chủ nhật 6:00–10:00" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Thịt trâu gác bếp", "description": "Thịt trâu hun khói treo trên bếp lâu ngày." }, { "name": "Cá tầm, cá hồi", "description": "Nuôi tại địa phương, nấu lẩu hoặc nướng." }, { "name": "Rượu ngô", "description": "Rượu ủ từ ngô, uống ấm trong tiết trời lạnh." }], "localSnacks": ["Bánh ngô", "Mèn mén", "Thắng cố"], "marketsOrRestaurants": "Chợ Bắc Hà (cuối tuần); quán quanh thị trấn Sa Pa; ăn tại homestay.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=400", "alt": "Ẩm thực vùng cao" }] },
+      "accommodation": { "luxury": ["Topas Ecolodge", "Hotel de la Coupole MGallery"], "midRange": ["Khách sạn view ruộng bậc thang", "Sapa Relax Hotel"], "budget": ["Homestay bản Tả Van, Lao Chải", "Hostel thị trấn Sa Pa"], "notableResorts": ["Topas Ecolodge", "Fansipan Terrace"], "suggestedAreas": "Thị trấn (tiện ăn uống); homestay Tả Van/Lao Chải (trải nghiệm); Bắc Hà nếu đi chợ." },
+      "transportation": { "howToGetThere": { "train": "Tàu Hà Nội – Lào Cai (8h đêm); sau đó xe bus/shuttle lên Sa Pa (1h).", "bus": "Xe giường nằm Hà Nội – Sa Pa (5–6h)." }, "withinCity": "Xe máy thuê; taxi; đi bộ trong thị trấn; trekking có hướng dẫn.", "estimatedTimes": "Hà Nội – Lào Cai: 8h tàu; Lào Cai – Sa Pa: 1h; Sa Pa – Bắc Hà: 2h." },
+      "itinerary": { "oneDay": ["Sáng: Cáp treo Fansipan", "Trưa: Ăn tại thị trấn", "Chiều: Bản Cát Cát"], "twoDay": ["Ngày 1: Đến Sa Pa, Fansipan hoặc Cát Cát", "Ngày 2: Trekking Mường Hoa (Lao Chải, Tả Van) hoặc chợ Bắc Hà"], "threeDay": ["Ngày 1: Đến Sa Pa, thăm Cát Cát", "Ngày 2: Trekking 1 đêm homestay Mường Hoa", "Ngày 3: Về thị trấn hoặc đi Bắc Hà (nếu Chủ nhật)"] },
+      "practicalTips": { "safety": "Đường đèo quanh co; không đi trekking một mình vào rừng.", "weather": "Luôn mang áo khoác; sương mù nhiều, có thể lạnh đột ngột.", "whatToPrepare": "Giày trekking, áo ấm, thuốc say xe, tiền mặt (nhiều nơi không quẹt thẻ).", "localEtiquette": "Hỏi trước khi chụp ảnh người dân; mua hàng có thể mặc cả nhẹ nhàng." }
+    },
+    {
+      "id": "ninh-binh",
+      "name": "Ninh Bình",
+      "province": "Ninh Bình",
+      "tagline": "Hạ Long trên cạn",
+      "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800",
+      "description": "Ninh Bình với cảnh núi đá, sông và đền chùa cổ là lựa chọn yên bình thay cho Hạ Long. Chèo thuyền Tam Cốc và khám phá Tràng An.",
+      "attractions": ["Tam Cốc", "Quần thể Tràng An", "Chùa Bái Đính", "Cố đô Hoa Lư", "Hang Múa", "Khu bảo tồn Vân Long"],
+      "cultural": ["Kinh đô đầu tiên Việt Nam", "Điểm hành hương Phật giáo", "Chèo thuyền và canh tác truyền thống"],
+      "tips": ["Đi sớm để tránh đông ở Tam Cốc", "Kết hợp Bái Đính trong một ngày", "Mang kem chống nắng và nón khi đi thuyền"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "alt": "Chèo thuyền Tam Cốc qua núi đá", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Quần thể danh thắng Tràng An", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "alt": "Quần thể chùa Bái Đính", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Chèo thuyền sông Ngoạ Động", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Đồng lúa và núi đá", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Thịt dê và cơm địa phương", "category": "ẩm thực" }
+      ],
+      "events": [
+        { "name": "Lễ hội Tràng An", "dates": "Tháng 3 (âm lịch)", "description": "Lễ Phật giáo và dân gian tại Tràng An. Rước thuyền và nghi thức đền chùa tôn vinh di sản tâm linh.", "significance": "Kết hợp tâm linh với cảnh Tràng An tuyệt đẹp.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=600", "recommendedThingsToDo": ["Đi thuyền Tràng An", "Dự lễ rước", "Thăm đền chùa trong quần thể"] },
+        { "name": "Lễ hội Cố đô Hoa Lư", "dates": "Tháng 3 âm lịch", "description": "Tưởng niệm vua Đinh và Lê. Nghi lễ truyền thống, tái hiện và biểu diễn văn hóa tại Cố đô.", "significance": "Đắm mình vào lịch sử hoàng gia buổi đầu Việt Nam.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=600", "recommendedThingsToDo": ["Xem tái hiện lịch sử", "Viếng đền vua Đinh, Lê", "Chụp ảnh lễ hội"] }
+      ],
+      "overview": { "introduction": "Ninh Bình được mệnh danh 'Hạ Long trên cạn' với núi đá vôi, sông và đền chùa. Tam Cốc, Tràng An và chùa Bái Đính là điểm nhấn.", "historicalBackground": "Cố đô Hoa Lư từng là kinh đô đầu tiên của Việt Nam thời Đinh – Tiền Lê (thế kỷ X). Vùng đất linh thiêng với nhiều di tích.", "whyFamous": "Cảnh quan thuyền trên sông giữa núi đá; Di sản Tràng An (UNESCO); chùa Bái Đính lớn; thịt dê Ninh Bình." },
+      "detailedInfo": { "geography": { "location": "Nam đồng bằng Bắc Bộ, cách Hà Nội khoảng 90 km.", "climate": "Nhiệt đới gió mùa; mùa hè nóng, mùa đông mát.", "bestSeason": "Tháng 3–5 và 9–11: trời đẹp, lúa vàng ở Tam Cốc." }, "history": { "summary": "Hoa Lư là kinh đô từ 968; sau khi Lý Thái Tổ dời đô về Thăng Long, Ninh Bình vẫn là vùng tâm linh và nông nghiệp.", "keyEvents": ["968: Đinh Bộ Lĩnh lên ngôi, đóng đô tại Hoa Lư", "2014: Quần thể Tràng An được UNESCO công nhận Di sản hỗn hợp"] }, "culture": { "customs": "Lễ hội đền vua Đinh, Lê; hành hương chùa Bái Đính; chèo thuyền và canh tác lúa ven núi.", "heritage": "Di sản thế giới Tràng An; Cố đô Hoa Lư; chùa Bái Đính; làng nghề." } },
+      "topAttractions": [
+        { "name": "Tam Cốc", "description": "Ba hang qua sông Ngoạ Động, chèo thuyền ngắm núi đá và đồng lúa.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "locationInProvince": "Huyện Hoa Lư", "openingHours": "7:00–18:00", "entranceFee": "Vé thuyền khoảng 150.000 VND/người", "travelTips": "Đi sớm tránh đông; mang nón, kem chống nắng.", "bestTimeToVisit": "Sáng sớm; tháng 5–6 lúa vàng" },
+        { "name": "Tràng An", "description": "Quần thể thắng cảnh và tâm linh; đi thuyền qua hang, đền và núi đá.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Huyện Hoa Lư", "openingHours": "7:00–16:00", "entranceFee": "Tour thuyền khoảng 250.000 VND", "travelTips": "Chọn tuyến dài để trải nghiệm đầy đủ.", "bestTimeToVisit": "Cả ngày" },
+        { "name": "Chùa Bái Đính", "description": "Quần thể chùa lớn với tượng Phật đồng, tháp và điện thờ.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "locationInProvince": "Xã Gia Sinh, Gia Viễn", "openingHours": "6:00–21:00", "entranceFee": "Khoảng 50.000 VND (một số điện riêng)", "travelTips": "Đi xe điện trong khuôn viên nếu mệt.", "bestTimeToVisit": "Sáng hoặc chiều" },
+        { "name": "Cố đô Hoa Lư", "description": "Đền thờ vua Đinh và vua Lê; di tích thành cổ và cảnh quan.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Xã Trường Yên, Hoa Lư", "openingHours": "7:00–17:00", "entranceFee": "Khoảng 20.000 VND", "travelTips": "Kết hợp với Tràng An trong một ngày.", "bestTimeToVisit": "Sáng" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Thịt dê Ninh Bình", "description": "Dê núi nướng, hấp hoặc xào; đặc sản vùng." }, { "name": "Cơm cháy", "description": "Cơm cháy giòn ăn kèm thịt dê hoặc riêng." }], "localSnacks": ["Nem chua Yen Mạc", "Ốc núi"], "marketsOrRestaurants": "Nhà hàng quanh Tam Cốc, Tràng An; quán thịt dê dọc quốc lộ.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Thịt dê" }] },
+      "accommodation": { "luxury": ["Emeralda Resort Ninh Bình", "Tam Coc Garden"], "midRange": ["Khách sạn gần Tam Cốc, Tràng An"], "budget": ["Homestay Tam Cốc", "Nhà nghỉ Ninh Bình town"], "notableResorts": ["Tam Coc Garden", "Emeralda"], "suggestedAreas": "Gần Tam Cốc/Tràng An (tiện tour); Ninh Bình town (rẻ, có xe đi điểm tham quan)." },
+      "transportation": { "howToGetThere": { "bus": "Xe từ Hà Nội (2h); từ Tam Điệp, Nam Định.", "car": "Cao tốc Hà Nội – Ninh Bình khoảng 1,5–2h." }, "withinCity": "Thuê xe máy; taxi; tour có xe đưa đón.", "estimatedTimes": "Hà Nội – Ninh Bình: 2h; Ninh Bình – Tam Cốc: 15–20 phút." },
+      "itinerary": { "oneDay": ["Sáng: Tam Cốc (thuyền)", "Trưa: Ăn thịt dê", "Chiều: Tràng An hoặc Bái Đính"], "twoDay": ["Ngày 1: Tam Cốc, Tràng An", "Ngày 2: Bái Đính, Cố đô Hoa Lư"], "threeDay": ["Ngày 1: Tam Cốc, Hang Múa", "Ngày 2: Tràng An, Bái Đính", "Ngày 3: Cố đô Hoa Lư, Vân Long (optional)"] },
+      "practicalTips": { "safety": "Ngồi yên trên thuyền; đi giày chống trơn khi leo Hang Múa.", "weather": "Mùa hè nắng nóng; mang nón, nước.", "whatToPrepare": "Kem chống nắng, tiền mặt cho vé và ăn.", "localEtiquette": "Không xả rác xuống sông; tôn trọng đền chùa." }
+    }
+  ],
+  "central": [
+    {
+      "id": "hue",
+      "name": "Huế",
+      "province": "Thừa Thiên Huế",
+      "tagline": "Cố đô và di sản hoàng gia",
+      "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800",
+      "description": "Huế từng là kinh đô nhà Nguyễn. Hoàng thành, lăng tẩm và sông Hương làm nên viên ngọc văn hóa được UNESCO công nhận.",
+      "attractions": ["Đại Nội", "Chùa Thiên Mụ", "Lăng tẩm các vua", "Sông Hương", "Chợ Đông Ba", "Tử Cấm Thành"],
+      "cultural": ["Nhã nhạc cung đình", "Áo dài truyền thống", "Ẩm thực chay chùa", "Festival Huế"],
+      "tips": ["Dành trọn một ngày cho Đại Nội", "Đi thuyền trên sông Hương", "Thử bún bò Huế—đặc sản địa phương"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "alt": "Cổng Đại Nội Huế", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "alt": "Chùa Thiên Mụ bên sông Hương", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Biểu diễn nhã nhạc cung đình", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Bún bò Huế", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Thuyền rồng trên sông Hương", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "alt": "Kiến trúc lăng tẩm", "category": "địa danh" }
+      ],
+      "events": [
+        { "name": "Festival Huế", "dates": "2 năm một lần, tháng 4 (năm chẵn)", "description": "Festival nghệ thuật lớn của Việt Nam. Tái hiện cung đình, nhã nhạc, múa, trình diễn áo dài và nghệ thuật quốc tế bên sông Hương.", "significance": "Sân chơi hàng đầu cho di sản cung đình và nghệ thuật biểu diễn Huế.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Xem nhã nhạc cung đình", "Đi thuyền rồng sông Hương", "Xem trình diễn áo dài", "Thăm Đại Nội trong dịp lễ"] },
+        { "name": "Festival Nghề truyền thống Huế", "dates": "Tháng 4–5", "description": "Trình diễn nghề cung đình và dân gian: đúc đồng, nón lá, thêu, hương. Tổ chức trong khu vực Đại Nội.", "significance": "Xem nghệ nhân làm việc và mua đồ thủ công Huế chính gốc.", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600", "recommendedThingsToDo": ["Xem đúc đồng, làm nón", "Mua nón bài thơ, hương trầm", "Chụp ảnh nghệ nhân"] }
+      ],
+      "overview": { "introduction": "Huế từng là kinh đô nhà Nguyễn, nay là thành phố di sản với Đại Nội, lăng tẩm và sông Hương. Nhã nhạc cung đình và ẩm thực chay chùa nổi tiếng.", "historicalBackground": "Huế trở thành kinh đô từ 1802 dưới triều Nguyễn; đến 1945 là trung tâm chính trị, văn hóa của Việt Nam. Nhiều công trình bị tàn phá trong chiến tranh nhưng đã được trùng tu.", "whyFamous": "Quần thể di tích cố đô Huế (UNESCO); lăng tẩm các vua; nhã nhạc cung đình; bún bò Huế; áo dài và nón bài thơ." },
+      "detailedInfo": { "geography": { "location": "Bờ bắc sông Hương, tỉnh Thừa Thiên Huế, miền Trung.", "climate": "Nhiệt đới gió mùa; mưa nhiều tháng 9–12; mùa khô nóng tháng 3–8.", "bestSeason": "Tháng 1–4: mát, ít mưa; tránh mùa mưa lũ (10–12)." }, "history": { "summary": "Kinh đô nhà Nguyễn (1802–1945); sau đó Huế giữ vai trò văn hóa, tâm linh với di tích và lễ hội.", "keyEvents": ["1802: Gia Long đặt kinh đô tại Huế", "1993: Quần thể di tích cố đô Huế được UNESCO công nhận", "2003: Nhã nhạc cung đình được công nhận Di sản phi vật thể"] }, "culture": { "customs": "Nhã nhạc, múa cung đình; ẩm thực chay chùa; nón bài thơ; lăng tẩm và lễ hội.", "heritage": "Di sản thế giới Cố đô Huế; Nhã nhạc cung đình; áo dài Huế." } },
+      "topAttractions": [
+        { "name": "Đại Nội", "description": "Hoàng thành và Tử Cấm Thành với Ngọ Môn, điện Thái Hòa, hồ sen và kiến trúc cung đình.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "locationInProvince": "Trung tâm thành phố Huế", "openingHours": "7:00–17:30", "entranceFee": "Khoảng 200.000 VND", "travelTips": "Dành ít nhất 3–4 giờ; thuê hướng dẫn hoặc audio.", "bestTimeToVisit": "Sáng sớm" },
+        { "name": "Chùa Thiên Mụ", "description": "Chùa biểu tượng bên sông Hương với tháp Phước Duyên 7 tầng.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "locationInProvince": "Đường Nguyễn Phúc Nguyên", "openingHours": "8:00–18:00", "entranceFee": "Miễn phí", "travelTips": "Kết hợp đi thuyền sông Hương.", "bestTimeToVisit": "Sáng hoặc chiều" },
+        { "name": "Lăng Tự Đức", "description": "Lăng vua Tự Đức với hồ sen, điện và kiến trúc hài hòa thiên nhiên.", "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "locationInProvince": "Xã Thủy Xuân", "openingHours": "7:00–17:30", "entranceFee": "Khoảng 150.000 VND", "travelTips": "Đi cùng lăng Khải Định nếu có thời gian.", "bestTimeToVisit": "Sáng" },
+        { "name": "Chợ Đông Ba", "description": "Chợ truyền thống lớn; mua đặc sản Huế, nón, mắm, đồ lưu niệm.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Bờ nam sông Hương", "openingHours": "5:00–18:00", "entranceFee": "Không", "travelTips": "Ăn sáng tại quán trong chợ.", "bestTimeToVisit": "Sáng sớm" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Bún bò Huế", "description": "Bún nước dùng sả ớt, thịt bò, chả; đặc sản nổi tiếng nhất Huế." }, { "name": "Cơm hến", "description": "Cơm nguội ăn với hến xào, rau và mắm." }, { "name": "Bánh bèo, nậm, lọc", "description": "Bánh bột gạo hấp ăn với tôm chấy, nước mắm." }], "localSnacks": ["Chè Huế (nhiều loại)", "Bánh khoái", "Nem lụi"], "marketsOrRestaurants": "Chợ Đông Ba; quán bún bò (Bà Tuyết, O Phượng); ăn chay chùa Từ Hiếu.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Bún bò Huế" }] },
+      "accommodation": { "luxury": ["La Résidence Hue", "Pilgrimage Village"], "midRange": ["Khách sạn gần sông Hương", "Mondial Hue"], "budget": ["Hostel Phố Tây", "Homestay gần Đại Nội"], "notableResorts": ["Pilgrimage Village", "Ana Mandara"], "suggestedAreas": "Gần sông Hương (view đẹp); Phố Tây (ăn uống, bar); gần Đại Nội (tiện tham quan)." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Phú Bài (15 km); taxi 30 phút.", "train": "Ga Huế trên tuyến Bắc–Nam.", "bus": "Xe từ Đà Nẵng, Quảng Bình, TP.HCM." }, "withinCity": "Xe máy thuê; taxi; xe đạp; thuyền sông Hương.", "estimatedTimes": "Đà Nẵng – Huế: 2–3h; Sân bay – trung tâm: 30 phút." },
+      "itinerary": { "oneDay": ["Sáng: Đại Nội", "Trưa: Bún bò, chợ Đông Ba", "Chiều: Chùa Thiên Mụ, thuyền sông Hương"], "twoDay": ["Ngày 1: Đại Nội, chùa Thiên Mụ, thuyền sông Hương", "Ngày 2: Lăng Tự Đức, Khải Định, chợ Đông Ba"], "threeDay": ["Ngày 1: Đại Nội, chợ Đông Ba", "Ngày 2: Lăng (Tự Đức, Khải Định, Minh Mạng)", "Ngày 3: Chùa Thiên Mụ, làng nghề nón, đi Đà Nẵng/Hội An"] },
+      "practicalTips": { "safety": "Đường phố tương đối an toàn; giữ đồ khi đi chợ.", "weather": "Mùa mưa lũ (10–12) có thể ngập; mang ô.", "whatToPrepare": "Áo khoác nhẹ trong Đại Nội (nắng); tiền mặt.", "localEtiquette": "Mặc kín đáo vào đền chùa, lăng; không nói to trong khu di tích." }
+    },
+    {
+      "id": "danang",
+      "name": "Đà Nẵng",
+      "province": "Đà Nẵng",
+      "tagline": "Biển, cầu và cửa ngõ di sản",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "description": "Đà Nẵng là thành phố biển năng động với bãi cát vàng, cầu Rồng và dễ dàng đến Hội An, Ngũ Hành Sơn.",
+      "attractions": ["Bãi biển Mỹ Khê", "Cầu Rồng", "Ngũ Hành Sơn", "Bà Nà Hills", "Bán đảo Sơn Trà", "Bảo tàng Điêu khắc Chăm"],
+      "cultural": ["Đời sống đô thị hiện đại", "Di sản Chăm", "Cầu Rồng phun lửa cuối tuần"],
+      "tips": ["Ở lại xem Cầu Rồng phun lửa cuối tuần", "Kết hợp đi Hội An trong ngày", "Thuê xe máy khám phá Sơn Trà"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Bãi Mỹ Khê", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Cầu Rồng về đêm", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Động Ngũ Hành Sơn", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "alt": "Hoạt động biển Mỹ Khê", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Hải sản ven biển", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Điêu khắc Chăm tại bảo tàng", "category": "văn hóa" }
+      ],
+      "events": [
+        { "name": "Festival Pháo hoa quốc tế Đà Nẵng", "dates": "Tháng 6–7", "description": "Các đội từ nhiều nước thi pháo hoa trên sông Hàn. Thu hút đông đảo; nên đặt chỗ ở sớm.", "significance": "Một trong những sự kiện hoành tráng nhất Việt Nam.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Đặt chỗ xem bên sông Hàn", "Đi cầu Rồng đúng giờ phun lửa", "Đặt khách sạn sớm"] },
+        { "name": "Lễ hội Quán Thế Âm", "dates": "19 tháng 2 âm lịch", "description": "Lễ Phật giáo tại Ngũ Hành Sơn. Phật tử leo lên chùa và động để cầu nguyện.", "significance": "Kết hợp tôn giáo với khung cảnh Ngũ Hành Sơn.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Leo Ngũ Hành Sơn", "Thăm chùa và động", "Chụp ảnh cảnh quan"] }
+      ],
+      "overview": { "introduction": "Đà Nẵng là thành phố biển năng động, cửa ngõ đến Hội An và Ngũ Hành Sơn. Bãi Mỹ Khê, cầu Rồng và Bà Nà Hills thu hút du khách.", "historicalBackground": "Cảng biển quan trọng từ thời Chăm; thời Pháp thuộc phát triển; nay là trung tâm kinh tế và du lịch miền Trung.", "whyFamous": "Bãi biển đẹp; cầu Rồng phun lửa; Bà Nà Hills; Bảo tàng Điêu khắc Chăm; dễ kết hợp Hội An." },
+      "detailedInfo": { "geography": { "location": "Bờ biển miền Trung, giữa Huế và Quảng Nam.", "climate": "Nhiệt đới gió mùa; mùa khô nóng 3–8; mùa mưa 9–1.", "bestSeason": "Tháng 2–8: nắng đẹp cho biển; tránh mưa bão 10–12." }, "history": { "summary": "Cảng Đà Nẵng từng là điểm giao thương; thời Pháp thuộc mở rộng; sau 1975 phát triển công nghiệp và du lịch.", "keyEvents": ["Thế kỷ XVI–XIX: Cảng thương mại", "2013: Cầu Rồng khánh thành", "Bà Nà Hills cáp treo và cầu Vàng"] }, "culture": { "customs": "Đời sống đô thị biển; di sản Chăm (bảo tàng); cầu Rồng phun lửa cuối tuần; ẩm thực hải sản.", "heritage": "Bảo tàng Điêu khắc Chăm; Ngũ Hành Sơn." } },
+      "topAttractions": [
+        { "name": "Bãi biển Mỹ Khê", "description": "Bãi cát vàng, nước trong; tắm biển, chơi thể thao nước và ăn hải sản.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Phía đông thành phố", "openingHours": "Công cộng", "entranceFee": "Không", "travelTips": "Mùa hè nắng gắt; thuê ghế dù.", "bestTimeToVisit": "Sáng hoặc chiều" },
+        { "name": "Cầu Rồng", "description": "Cầu hình rồng bắc qua sông Hàn; cuối tuần phun lửa và nước lúc 21h.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Sông Hàn", "openingHours": "Phun lửa 21h thứ 6–7–Chủ nhật", "entranceFee": "Không", "travelTips": "Đến sớm để có chỗ đứng đẹp.", "bestTimeToVisit": "21h cuối tuần" },
+        { "name": "Bà Nà Hills", "description": "Khu du lịch trên núi với cáp treo, cầu Vàng, vườn hoa và khu vui chơi.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Huyện Hòa Vang", "openingHours": "7:00–22:00", "entranceFee": "Vé cáp treo + khu vực (khoảng 750.000 VND)", "travelTips": "Mang áo khoác (trên núi mát); đặt vé online.", "bestTimeToVisit": "Sáng sớm tránh mây" },
+        { "name": "Ngũ Hành Sơn", "description": "Năm ngọn núi đá vôi với chùa, động và view biển.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Quận Ngũ Hành Sơn", "openingHours": "7:00–17:30", "entranceFee": "Khoảng 40.000 VND (thủy sơn)", "travelTips": "Mang giày thoải mái để leo.", "bestTimeToVisit": "Sáng" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Mì Quảng", "description": "Mì vàng ăn với nước lèo, thịt, tôm và rau." }, { "name": "Bánh tráng cuốn thịt heo", "description": "Bánh tráng cuốn thịt luộc, rau và mắm." }], "localSnacks": ["Bánh mì Đà Nẵng", "Chè", "Hải sản nướng"], "marketsOrRestaurants": "Chợ Hàn; quán mì Quảng (Bà Mua); bãi biển Mỹ Khê (hải sản).", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Mì Quảng" }] },
+      "accommodation": { "luxury": ["InterContinental Danang", "Fusion Maia"], "midRange": ["Khách sạn ven biển Mỹ Khê", "Brilliant Hotel"], "budget": ["Hostel Phố Tây", "Khách sạn nhỏ gần biển"], "notableResorts": ["InterContinental Danang Sun Peninsula", "Fusion Maia"], "suggestedAreas": "Mỹ Khê (gần biển); trung tâm (gần cầu Rồng, ăn uống); gần Bà Nà nếu đi sớm." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Đà Nẵng (quốc tế); taxi 15–20 phút vào trung tâm.", "train": "Ga Đà Nẵng tuyến Bắc–Nam.", "bus": "Xe từ Huế, Hội An, Quy Nhơn, TP.HCM." }, "withinCity": "Xe máy thuê; taxi; Grab; xe đạp.", "estimatedTimes": "Sân bay – trung tâm: 15 phút; Đà Nẵng – Hội An: 30–45 phút." },
+      "itinerary": { "oneDay": ["Sáng: Bà Nà Hills hoặc Mỹ Khê", "Trưa: Mì Quảng, Ngũ Hành Sơn", "Tối: Cầu Rồng 21h"], "twoDay": ["Ngày 1: Bà Nà Hills, tối cầu Rồng", "Ngày 2: Mỹ Khê, Bảo tàng Chăm, đi Hội An"], "threeDay": ["Ngày 1: Bà Nà Hills", "Ngày 2: Mỹ Khê, Ngũ Hành Sơn, Bảo tàng Chăm", "Ngày 3: Cầu Rồng, đi Hội An hoặc Huế"] },
+      "practicalTips": { "safety": "Biển có sóng; tắm đúng khu vực an toàn.", "weather": "Mùa mưa có thể ngập; tránh bão.", "whatToPrepare": "Kem chống nắng, áo khoác cho Bà Nà.", "localEtiquette": "Giữ vệ sinh bãi biển." }
+    },
+    {
+      "id": "hoi-an",
+      "name": "Hội An",
+      "province": "Quảng Nam",
+      "tagline": "Phố cổ và đèn lồng",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "description": "Phố cổ Hội An được UNESCO công nhận—nhà gỗ, tiệm may, đèn lồng và ẩm thực tuyệt vời. Đạp xe ra bãi biển và cánh đồng.",
+      "attractions": ["Phố cổ", "Chùa Cầu", "Chợ đèn lồng", "Bãi biển An Bàng", "Làng rau Trà Quế", "Thánh địa Mỹ Sơn (tour ngày)"],
+      "cultural": ["May đo và nghề thủ công", "Làm đèn lồng", "Cao lầu", "Lễ hội đèn lồng rằm"],
+      "tips": ["Đến lúc hoàng hôn để ngắm đèn lồng", "May quần áo", "Học nấu ăn", "Thuê xe đạp ra An Bàng"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "alt": "Phố cổ Hội An lúc hoàng hôn", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800", "alt": "Đèn lồng đủ màu về đêm", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Chùa Cầu Nhật Bản", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Cao lầu và món địa phương", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Đạp xe qua cánh đồng", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Xưởng làm đèn lồng", "category": "văn hóa" }
+      ],
+      "events": [
+        { "name": "Lễ hội Đèn lồng (Rằm tháng âm lịch)", "dates": "Ngày 14 mỗi tháng âm lịch", "description": "Phố cổ tắt đèn điện; đường phố thắp hàng ngàn đèn lồng. Trò chơi dân gian, biểu diễn và thả đèn hoa đăng trên sông.", "significance": "Sự kiện tháng nổi tiếng nhất Hội An; không khí lung linh.", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600", "recommendedThingsToDo": ["Dạo phố khi tắt đèn", "Thả đèn hoa đăng trên sông", "Chụp ảnh đèn lồng", "Ăn tối bên sông"] },
+        { "name": "Festival Ẩm thực quốc tế Hội An", "dates": "Tháng 3", "description": "Đầu bếp trong nước và quốc tế giới thiệu ẩm thực Việt và thế giới. Demo nấu ăn, quán ẩm thực đường phố và ăn bên sông.", "significance": "Tôn vinh Hội An là điểm đến cho người yêu ẩm thực.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=600", "recommendedThingsToDo": ["Tham gia lớp nấu ăn", "Nếm món từ nhiều gian hàng", "Xem biểu diễn nấu ăn"] },
+        { "name": "Lễ Nguyên Tiêu", "dates": "Rằm tháng 1 âm lịch", "description": "Lễ Phật giáo và dân gian với đèn lồng, cầu nguyện tại đền chùa và sum vầy cộng đồng trong Phố cổ.", "significance": "Rằm đầu năm; vừa linh thiêng vừa lễ hội.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Viếng chùa Cầu", "Thả đèn", "Ăn chè, bánh"] }
+      ],
+      "overview": { "introduction": "Phố cổ Hội An (UNESCO) với nhà gỗ, đèn lồng và ẩm thực tuyệt vời. Kết hợp biển An Bàng, làng rau Trà Quế và tour Mỹ Sơn.", "historicalBackground": "Thương cảng quốc tế từ thế kỷ XVI–XVII; kiến trúc Việt–Nhật–Hoa còn lưu lại; bảo tồn tốt nên được UNESCO công nhận.", "whyFamous": "Phố cổ đèn lồng; Chùa Cầu; may đo nhanh; cao lầu, bánh mì; làng rau Trà Quế; gần Mỹ Sơn." },
+      "detailedInfo": { "geography": { "location": "Tỉnh Quảng Nam, bên sông Thu Bồn, gần biển.", "climate": "Nhiệt đới gió mùa; mùa mưa 10–1; mùa khô nóng 2–8.", "bestSeason": "Tháng 2–7: ít mưa; Rằm âm lịch để xem đèn lồng." }, "history": { "summary": "Faifo (Hội An) từng là cảng chính của Đàng Trong; thương nhân Nhật, Hoa, phương Tây lui tới; sau suy thoái nhưng phố cổ được giữ nguyên.", "keyEvents": ["Thế kỷ XVI–XVII: Thương cảng quốc tế", "1999: Phố cổ Hội An được UNESCO công nhận Di sản thế giới"] }, "culture": { "customs": "Làm đèn lồng, may đo; ẩm thực địa phương (cao lầu, bánh mì); lễ hội đèn lồng rằm.", "heritage": "Di sản thế giới Phố cổ Hội An; Chùa Cầu; nhà cổ; Mỹ Sơn (gần)." } },
+      "topAttractions": [
+        { "name": "Chùa Cầu", "description": "Cầu Nhật Bản biểu tượng của Hội An, nối hai bên phố cổ.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Phố cổ, đường Nguyễn Thị Minh Khai", "openingHours": "Quanh ngày (bên ngoài); bên trong có giờ", "entranceFee": "Vé tham quan Phố cổ khoảng 120.000 VND (nhiều điểm)", "travelTips": "Chụp ảnh lúc hoàng hôn.", "bestTimeToVisit": "Chiều tối" },
+        { "name": "Phố cổ", "description": "Khu phố đi bộ với nhà cổ, tiệm đèn lồng, quán ăn và may đo.", "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "locationInProvince": "Trung tâm Hội An", "openingHours": "Quanh ngày; nhiều quán đến khuya", "entranceFee": "Vé 120.000 VND (một lần, nhiều điểm)", "travelTips": "May áo dài, mua đèn lồng; ăn cao lầu.", "bestTimeToVisit": "Chiều tối khi đèn lên" },
+        { "name": "Làng rau Trà Quế", "description": "Làng trồng rau thơm; tour xe đạp, học nấu ăn và thử làm nông dân.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Xã Cẩm Hà", "openingHours": "Sáng–chiều", "entranceFee": "Tour hoặc tự vào", "travelTips": "Đi xe đạp từ phố cổ khoảng 15 phút.", "bestTimeToVisit": "Sáng" },
+        { "name": "Bãi biển An Bàng", "description": "Bãi biển gần phố cổ, ít đông; có quán nằm dù và ăn uống.", "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "locationInProvince": "Phía đông Hội An", "openingHours": "Công cộng", "entranceFee": "Không", "travelTips": "Thuê xe đạp hoặc Grab.", "bestTimeToVisit": "Sáng hoặc chiều" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Cao lầu", "description": "Mì đặc sản Hội An với thịt, rau và nước ít." }, { "name": "Bánh mì Phượng", "description": "Bánh mì kẹp thịt, pate nổi tiếng." }, { "name": "Bánh xèo", "description": "Bánh xèo nhỏ cuốn bánh tráng và rau." }], "localSnacks": ["Chè bắp", "Bánh đập", "Bánh ướt"], "marketsOrRestaurants": "Chợ Hội An; Bánh mì Phượng; quán cao lầu (Cao Lầu Thanh); lớp nấu ăn Red Bridge.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Cao lầu" }] },
+      "accommodation": { "luxury": ["Anantara Hoi An", "Four Seasons Nam Hai (gần)"], "midRange": ["Khách sạn trong phố cổ", "Allegro Hoi An"], "budget": ["Hostel phố cổ", "Homestay Cẩm Châu"], "notableResorts": ["Anantara", "Victoria Hoi An Beach"], "suggestedAreas": "Trong phố cổ (đi bộ, đèn lồng); Cẩm An (gần biển); Cẩm Châu (yên tĩnh)." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Đà Nẵng, sau đó taxi/Grab 45 phút.", "bus": "Xe từ Đà Nẵng, Huế, Quy Nhơn, TP.HCM." }, "withinCity": "Đi bộ trong phố cổ; xe đạp; xe máy thuê; taxi.", "estimatedTimes": "Đà Nẵng – Hội An: 30–45 phút; Sân bay – Hội An: 45–60 phút." },
+      "itinerary": { "oneDay": ["Sáng: Phố cổ, Chùa Cầu", "Trưa: Cao lầu, may đo", "Chiều: Làng Trà Quế hoặc An Bàng", "Tối: Đèn lồng, ăn tối bên sông"], "twoDay": ["Ngày 1: Phố cổ, Chùa Cầu, may đo, tối đèn lồng", "Ngày 2: Làng Trà Quế, An Bàng hoặc tour Mỹ Sơn"], "threeDay": ["Ngày 1: Phố cổ, ẩm thực", "Ngày 2: Trà Quế, lớp nấu ăn, An Bàng", "Ngày 3: Mỹ Sơn (tour nửa ngày) hoặc Cù Lao Chàm"] },
+      "practicalTips": { "safety": "Phố cổ an toàn; giữ đồ khi đông.", "weather": "Mùa mưa có thể ngập nhẹ; mang ô.", "whatToPrepare": "Tiền mặt (nhiều quán không quẹt thẻ); giày đi bộ.", "localEtiquette": "Mặc cả may đo, mua đèn; không chạm vào đồ trong nhà cổ khi chưa hỏi." }
+    },
+    {
+      "id": "nha-trang",
+      "name": "Nha Trang",
+      "province": "Khánh Hòa",
+      "tagline": "Thành phố biển và đảo",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "description": "Nha Trang có bãi biển dài, nước trong, lặn biển và không khí ven biển sôi động. Lý tưởng cho nắng, biển và hải sản.",
+      "attractions": ["Bãi biển Nha Trang", "Vinpearl", "Tháp Bà Po Nagar", "Chùa Long Sơn", "Đảo Hòn Mun", "Tắm bùn"],
+      "cultural": ["Tháp Chăm Po Nagar", "Văn hóa làng chài", "Ẩm thực và phong cách biển"],
+      "tips": ["Đặt tour đảo trước", "Thử lặn ống thở ở Hòn Mun", "Thăm Po Nagar vào sáng sớm"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Bãi biển và vịnh Nha Trang", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "alt": "Tháp Bà Po Nagar", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Lặn ống thở Hòn Mun", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Hải sản tươi bên biển", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "alt": "Hoàng hôn Nha Trang", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Thuyền đánh cá và đời sống ven biển", "category": "văn hóa" }
+      ],
+      "events": [
+        { "name": "Lễ hội Biển Nha Trang", "dates": "Tháng 6 (2 năm một lần)", "description": "Tuần lễ tôn vinh biển và văn hóa. Diễu hành, thể thao nước, âm nhạc và lễ hội hải sản dọc bờ biển.", "significance": "Cao điểm lịch du lịch Nha Trang; phù hợp gia đình.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Xem diễu hành", "Tham gia thể thao nước", "Ăn hải sản lễ hội"] },
+        { "name": "Lễ hội Tháp Bà (Po Nagar)", "dates": "Tháng 3 âm lịch", "description": "Tôn vinh nữ thần Po Nagar tại tháp Chăm. Nghi lễ Chăm và Việt truyền thống, múa và dâng lễ.", "significance": "Truyền thống Chăm và Ấn–Phật giáo địa phương quan trọng.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Dự lễ tại Tháp Bà", "Xem múa Chăm", "Thăm tháp sáng sớm"] }
+      ],
+      "overview": { "introduction": "Nha Trang là thành phố biển với bãi dài, nước trong, lặn biển và Vinpearl. Tháp Bà Po Nagar và ẩm thực hải sản là điểm nhấn.", "historicalBackground": "Vùng đất của vương quốc Chăm; tháp Po Nagar còn lại từ thế kỷ VII–XII. Pháp phát triển Nha Trang thành điểm nghỉ biển.", "whyFamous": "Bãi biển đẹp; lặn Hòn Mun; Vinpearl; Tháp Bà Po Nagar; tắm bùn; hải sản tươi." },
+      "detailedInfo": { "geography": { "location": "Duyên hải Nam Trung Bộ, tỉnh Khánh Hòa.", "climate": "Nhiệt đới; mùa khô 1–8; mùa mưa 9–12.", "bestSeason": "Tháng 1–8: nắng đẹp; tránh mưa bão 10–11." }, "history": { "summary": "Tháp Chăm Po Nagar là di tích từ vương quốc Champa; Nha Trang hiện đại phát triển từ thời Pháp thuộc.", "keyEvents": ["Thế kỷ VII–XII: Tháp Po Nagar", "Thế kỷ XX: Phát triển nghỉ dưỡng biển"] }, "culture": { "customs": "Lễ hội Tháp Bà; văn hóa biển và làng chài; ẩm thực hải sản.", "heritage": "Tháp Bà Po Nagar (Chăm); chùa Long Sơn." } },
+      "topAttractions": [
+        { "name": "Tháp Bà Po Nagar", "description": "Quần thể tháp Chăm thờ nữ thần Po Nagar; kiến trúc gạch nung và tượng.", "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "locationInProvince": "Đồi Cù Lao, bắc sông Cái", "openingHours": "6:00–18:00", "entranceFee": "Khoảng 22.000 VND", "travelTips": "Đi sáng sớm; mặc kín đáo.", "bestTimeToVisit": "Sáng" },
+        { "name": "Vinpearl Nha Trang", "description": "Khu vui chơi trên đảo với cáp treo, công viên nước, thủy cung và resort.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Đảo Hòn Tre", "openingHours": "8:00–22:00 (tùy khu)", "entranceFee": "Vé cáp treo + khu vực (khoảng 880.000 VND)", "travelTips": "Dành cả ngày; đặt vé online.", "bestTimeToVisit": "Cả ngày" },
+        { "name": "Hòn Mun", "description": "Khu bảo tồn biển; lặn ống thở và lặn bình khí ngắm san hô.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Vịnh Nha Trang", "openingHours": "Tour theo ngày", "entranceFee": "Tour lặn (khoảng 400.000–600.000 VND)", "travelTips": "Đặt tour trước; không chạm san hô.", "bestTimeToVisit": "Sáng, biển êm" },
+        { "name": "Chùa Long Sơn", "description": "Chùa lớn với tượng Phật trắng trên đồi; view toàn thành phố.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=800", "locationInProvince": "Đường 23 Tháng 10", "openingHours": "7:00–17:00", "entranceFee": "Miễn phí", "travelTips": "Leo bậc thang; mang nước.", "bestTimeToVisit": "Sáng hoặc chiều" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Bún cá", "description": "Bún nước với cá tươi, cà chua và rau." }, { "name": "Nem nướng Ninh Hòa", "description": "Nem nướng cuốn bánh tráng, rau và nước chấm." }], "localSnacks": ["Bánh căn", "Chả cá", "Hải sản nướng"], "marketsOrRestaurants": "Chợ Đầm; quán ven biển (hải sản); Bún cá Đặng Văn Quyền.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Hải sản Nha Trang" }] },
+      "accommodation": { "luxury": ["Six Senses Ninh Van Bay", "Vinpearl Resort"], "midRange": ["Khách sạn ven biển trung tâm", "Rosaka Nha Trang"], "budget": ["Hostel gần biển", "Khách sạn nhỏ đường Trần Phú"], "notableResorts": ["Six Senses", "Amiana"], "suggestedAreas": "Trần Phú (gần biển, ăn uống); Vĩnh Hải (yên tĩnh); gần Vinpearl cáp treo." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Cam Ranh (30 km); shuttle/taxi 45 phút.", "train": "Ga Nha Trang tuyến Bắc–Nam.", "bus": "Xe từ TP.HCM, Đà Lạt, Đà Nẵng." }, "withinCity": "Xe máy thuê; taxi; Grab; xe buýt (Vinpearl).", "estimatedTimes": "Sân bay – trung tâm: 45 phút; Ga – biển: 15 phút." },
+      "itinerary": { "oneDay": ["Sáng: Tháp Bà Po Nagar", "Trưa: Bún cá, chùa Long Sơn", "Chiều: Biển hoặc tắm bùn"], "twoDay": ["Ngày 1: Tháp Bà, chùa Long Sơn, biển", "Ngày 2: Tour Hòn Mun lặn hoặc Vinpearl"], "threeDay": ["Ngày 1: Tháp Bà, chùa Long Sơn, bãi biển", "Ngày 2: Lặn Hòn Mun", "Ngày 3: Vinpearl hoặc tắm bùn, nghỉ"] },
+      "practicalTips": { "safety": "Cẩn thận dòng chảy khi tắm biển; lặn theo hướng dẫn.", "weather": "Mùa mưa sóng lớn; tránh lặn khi biển động.", "whatToPrepare": "Kem chống nắng, đồ bơi; tiền mặt.", "localEtiquette": "Mặc kín đáo vào tháp, chùa." }
+    }
+  ],
+  "southern": [
+    {
+      "id": "ho-chi-minh-city",
+      "name": "Thành phố Hồ Chí Minh",
+      "province": "Thành phố Hồ Chí Minh",
+      "tagline": "Đô thị sôi động phía Nam",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "description": "Thành phố Hồ Chí Minh (Sài Gòn) là trung tâm lịch sử, thương mại và ẩm thực đường phố. Khám phá bảo tàng chiến tranh, công trình thuộc địa và đời sống đêm.",
+      "attractions": ["Bảo tàng Chứng tích chiến tranh", "Nhà thờ Đức Bà", "Chợ Bến Thành", "Địa đạo Củ Chi", "Bitexco Tower", "Chùa Ngọc Hoàng"],
+      "cultural": ["Di sản thuộc địa Pháp", "Văn hóa ẩm thực và cà phê đường phố", "Áo dài và thời trang hiện đại", "Tết và lễ hội địa phương"],
+      "tips": ["Băng qua đường chậm và đều", "Thăm Củ Chi nửa ngày", "Ăn quán vỉa hè để nếm đúng vị"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "alt": "Phố Sài Gòn và xe máy", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Nhà thờ Đức Bà", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Ẩm thực đường phố Bến Thành", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Áo dài", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Khám phá địa đạo Củ Chi", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "alt": "Skyline Bitexco", "category": "địa danh" }
+      ],
+      "events": [
+        { "name": "Tết tại Sài Gòn", "dates": "Cuối tháng 1 – đầu tháng 2 (âm lịch)", "description": "Chợ hoa, pháo hoa, đi lễ chùa và sum họp gia đình. Đại lộ Nguyễn Huệ tràn hoa và trang trí.", "significance": "Trải nghiệm Tết tại thành phố lớn và năng động nhất Việt Nam.", "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=600", "recommendedThingsToDo": ["Dạo đường hoa Nguyễn Huệ", "Chợ hoa Gò Vấp", "Xem pháo hoa", "Viếng chùa"] },
+        { "name": "Lễ Vu Lan", "dates": "Rằm tháng 7 âm lịch", "description": "Ngày Phật giáo tưởng nhớ tổ tiên. Nhiều người cài hoa hồng và viếng chùa; lễ vật và hương khói đường phố.", "significance": "Dịp tôn giáo và gia đình quan trọng; cảm động và đẹp để chụp ảnh.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Viếng chùa", "Cài hoa hồng", "Ăn chay"] },
+        { "name": "Tuần Du lịch TP. Hồ Chí Minh", "dates": "Tháng 4", "description": "Sự kiện quảng bá, biểu diễn văn hóa, hội chợ ẩm thực và ưu đãi du lịch trên toàn thành phố.", "significance": "Thời điểm tốt để săn giảm giá và khám phá văn hóa địa phương.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Tham gia sự kiện văn hóa", "Săn ưu đãi khách sạn", "Hội chợ ẩm thực"] }
+      ],
+      "overview": { "introduction": "Thành phố Hồ Chí Minh (Sài Gòn) là trung tâm kinh tế, văn hóa phía Nam với bảo tàng chiến tranh, nhà thờ Đức Bà, chợ Bến Thành và ẩm thực đường phố sôi động.", "historicalBackground": "Sài Gòn phát triển từ thời Nguyễn và trở thành thủ đô Nam Kỳ thuộc Pháp; sau 1975 là TP. Hồ Chí Minh, đầu tàu kinh tế cả nước.", "whyFamous": "Bảo tàng Chứng tích chiến tranh; Nhà thờ Đức Bà; Chợ Bến Thành; Địa đạo Củ Chi; ẩm thực đường phố; đời sống đêm." },
+      "detailedInfo": { "geography": { "location": "Nam Bộ, bên sông Sài Gòn.", "climate": "Nhiệt đới; hai mùa mưa (5–11) và khô (12–4); nóng quanh năm.", "bestSeason": "Tháng 12–4: ít mưa; Tết để trải nghiệm lễ hội." }, "history": { "summary": "Từ Prey Nokor (Chăm) đến Sài Gòn thuộc Pháp và thủ đô Việt Nam Cộng hòa; 1975 thống nhất, đổi tên TP. Hồ Chí Minh.", "keyEvents": ["1698: Chúa Nguyễn thiết lập hành chính", "1859: Pháp chiếm Sài Gòn", "1975: Giải phóng miền Nam", "Đổi tên TP. Hồ Chí Minh"] }, "culture": { "customs": "Ẩm thực đường phố; cà phê bệt; áo dài; chợ và trung tâm thương mại; Tết và lễ Vu Lan.", "heritage": "Kiến trúc thuộc địa; Nhà thờ Đức Bà; Bưu điện; bảo tàng." } },
+      "topAttractions": [
+        { "name": "Bảo tàng Chứng tích chiến tranh", "description": "Triển lãm về chiến tranh Việt Nam; phòng hình ảnh và hiện vật gây xúc động.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Quận 3", "openingHours": "7:30–12:00, 13:30–17:00", "entranceFee": "Khoảng 40.000 VND", "travelTips": "Dành 2–3 giờ; không chụp ảnh một số khu.", "bestTimeToVisit": "Sáng" },
+        { "name": "Nhà thờ Đức Bà", "description": "Nhà thờ Gothic đỏ giữa trung tâm; biểu tượng Sài Gòn.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Quận 1", "openingHours": "Bên ngoài quanh ngày; lễ theo giờ", "entranceFee": "Miễn phí", "travelTips": "Chụp ảnh sáng hoặc chiều.", "bestTimeToVisit": "Sáng sớm" },
+        { "name": "Chợ Bến Thành", "description": "Chợ truyền thống lớn; mua quà lưu niệm, đồ ăn và trải nghiệm ẩm thực.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "locationInProvince": "Quận 1", "openingHours": "6:00–18:00 (khu chính); đêm 18:00–24:00", "entranceFee": "Không", "travelTips": "Mặc cả; ăn sáng trong chợ.", "bestTimeToVisit": "Sáng hoặc tối (chợ đêm)" },
+        { "name": "Địa đạo Củ Chi", "description": "Hệ thống địa đạo thời kháng chiến; bò trong hầm và tìm hiểu lịch sử.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Huyện Củ Chi (70 km)", "openingHours": "8:00–17:00", "entranceFee": "Khoảng 110.000 VND", "travelTips": "Tour nửa ngày từ TP; mang giày thoải mái.", "bestTimeToVisit": "Sáng" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Phở", "description": "Phở Nam bộ với rau nhiều, nước ngọt hơn." }, { "name": "Bún thịt nướng", "description": "Bún với thịt nướng, chả, rau và nước mắm pha." }, { "name": "Cơm tấm", "description": "Cơm gạo tấm với sườn, bì, chả trứng." }], "localSnacks": ["Bánh mì Sài Gòn", "Bánh xèo", "Chè"], "marketsOrRestaurants": "Chợ Bến Thành; Phố ẩm thực; Bún thịt nướng (Nguyễn Trung Trực); Cơm tấm (Calmette).", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Ẩm thực Sài Gòn" }] },
+      "accommodation": { "luxury": ["Park Hyatt Saigon", "Rex Hotel", "Caravelle"], "midRange": ["Khách sạn Quận 1, 3", "Liberty Central"], "budget": ["Hostel Phạm Ngũ Lão", "Khách sạn nhỏ Bùi Viện"], "notableResorts": ["N/A – thành phố"], "suggestedAreas": "Quận 1 (trung tâm, đi bộ); Phạm Ngũ Lão (backpacker); Quận 3 (yên tĩnh hơn)." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Tân Sơn Nhất (7 km nội thành); taxi/Grab 20–40 phút.", "bus": "Bến xe Miền Đông, Miền Tây; xe từ nhiều tỉnh." }, "withinCity": "Grab/Be; taxi; xe máy thuê; xe buýt; đi bộ Quận 1.", "estimatedTimes": "Sân bay – Quận 1: 20–40 phút (tùy kẹt); Củ Chi: 1,5–2h." },
+      "itinerary": { "oneDay": ["Sáng: Nhà thờ Đức Bà, Bưu điện", "Trưa: Chợ Bến Thành, ăn", "Chiều: Bảo tàng Chứng tích", "Tối: Bitexco hoặc Phố Tây"], "twoDay": ["Ngày 1: Quận 1 (Nhà thờ, Bưu điện, Chợ Bến Thành, Bảo tàng)", "Ngày 2: Củ Chi sáng; chiều ẩm thực hoặc mua sắm"], "threeDay": ["Ngày 1: Quận 1, Chợ Bến Thành", "Ngày 2: Củ Chi", "Ngày 3: Chùa Vĩnh Nghiêm, Bình Thạnh hoặc đi Mekong"] },
+      "practicalTips": { "safety": "Cẩn thận xe máy khi băng đường; giữ túi, điện thoại.", "weather": "Mưa đột ngột; mang ô.", "whatToPrepare": "Tiền mặt; giày đi bộ; thuốc tiêu hóa nhẹ.", "localEtiquette": "Mặc cả ở chợ; hỏi giá trước khi ăn vỉa hè." }
+    },
+    {
+      "id": "mekong-delta",
+      "name": "Đồng bằng sông Cửu Long",
+      "province": "Nhiều tỉnh",
+      "tagline": "Đời sống sông nước và chợ nổi",
+      "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800",
+      "description": "Đồng bằng sông Cửu Long là mê cung sông rạch và vườn cây trái. Trải nghiệm chợ nổi, vườn trái cây và đời sống sông nước truyền thống.",
+      "attractions": ["Chợ nổi Cái Bè", "Vĩnh Long", "Cần Thơ", "Bến Tre", "Rừng tràm Trà Sư", "Phú Quốc (đảo)"],
+      "cultural": ["Truyền thống chợ nổi", "Trồng lúa và cây trái", "Cộng đồng Khmer và Việt", "Âm nhạc dân gian và cải lương"],
+      "tips": ["Xuất phát sớm để đi chợ nổi", "Ở homestay để trải nghiệm trọn vẹn", "Thử trái cây nhiệt đới và kẹo dừa"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "alt": "Chợ nổi lúc bình minh", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800", "alt": "Kênh rạch và cây xanh đồng bằng", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Chèo thuyền qua rạch nhỏ", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Trái cây nhiệt đới và dừa", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Ghe lúa và thuyền", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Đời sống trên sông nước", "category": "văn hóa" }
+      ],
+      "events": [
+        { "name": "Lễ Ok Om Bok (Cúng trăng)", "dates": "Rằm tháng 10 âm lịch", "description": "Lễ hội Khmer ở đồng bằng (đặc biệt Sóc Trăng). Đua ghe ngo, cúng trăng và biểu diễn truyền thống.", "significance": "Sự kiện văn hóa Khmer lớn tại Việt Nam.", "image": "https://images.unsplash.com/photo-1503919886216-5a7973b63d96?w=600", "recommendedThingsToDo": ["Xem đua ghe ngo", "Tham gia cúng trăng", "Chụp ảnh trang phục Khmer"] },
+        { "name": "Lễ hội Trái cây Cần Thơ", "dates": "2 năm một lần, thường tháng 6", "description": "Tôn vinh trái cây đồng bằng: sầu riêng, xoài, nhãn... Vườn mở cửa tham quan, trưng bày trái cây và ẩm thực địa phương.", "significance": "Thời điểm tốt nhất để nếm và xem sản phẩm đồng bằng.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=600", "recommendedThingsToDo": ["Tham quan vườn trái cây", "Nếm sầu riêng, nhãn", "Xem trưng bày"] },
+        { "name": "Lễ hội Dừa (Bến Tre)", "dates": "2 năm một lần", "description": "Tôn vinh cây dừa và đời sống đồng bằng. Nghề thủ công, ẩm thực, đua ghe và biểu diễn văn hóa tại Bến Tre.", "significance": "Độc đáo 'vương quốc dừa' đồng bằng.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=600", "recommendedThingsToDo": ["Xem đua ghe", "Mua kẹo dừa", "Thăm làng dừa"] }
+      ],
+      "overview": { "introduction": "Đồng bằng sông Cửu Long là vùng sông nước, chợ nổi và vườn trái cây. Cần Thơ, Bến Tre, Vĩnh Long và chợ nổi Cái Răng là điểm đến phổ biến.", "historicalBackground": "Vùng đất trù phú do phù sa sông Mekong; người Việt, Khmer và Hoa cùng sinh sống; văn hóa sông nước và làm vườn.", "whyFamous": "Chợ nổi; vườn trái cây; kẹo dừa Bến Tre; cơm tấm, bún nước lèo; đua ghe; homestay sông nước." },
+      "detailedInfo": { "geography": { "location": "Nam Bộ, hạ lưu sông Mekong; nhiều tỉnh (Cần Thơ, Bến Tre, Vĩnh Long, Tiền Giang...).", "climate": "Nhiệt đới; hai mùa mưa (5–11) và khô (12–4).", "bestSeason": "Tháng 11–4: trái cây chín; chợ nổi sáng sớm quanh năm." }, "history": { "summary": "Vùng Nam Bộ khai phá từ thế kỷ XVII; chợ nổi và làng vườn hình thành theo kênh rạch.", "keyEvents": ["Phát triển chợ nổi và giao thương đường thủy", "Cần Thơ là trung tâm vùng"] }, "culture": { "customs": "Chợ nổi sáng sớm; trồng lúa và cây trái; cộng đồng Khmer (Sóc Trăng); cải lương, đờn ca tài tử.", "heritage": "Văn hóa sông nước; làng nghề (kẹo dừa, bánh tráng); chợ nổi." } },
+      "topAttractions": [
+        { "name": "Chợ nổi Cái Răng", "description": "Chợ nổi lớn nhất Cần Thơ; thuyền bán trái cây, đồ ăn sáng; đi thuyền từ bến Ninh Kiều.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "locationInProvince": "Quận Cái Răng, Cần Thơ", "openingHours": "5:00–9:00 (sáng)", "entranceFee": "Tour thuyền (khoảng 100.000–200.000 VND)", "travelTips": "Xuất phát 5–6h sáng.", "bestTimeToVisit": "5:00–7:00" },
+        { "name": "Vườn trái cây", "description": "Tham quan vườn sầu riêng, chôm chôm, nhãn; ăn trái tại vườn (Cái Bè, Vĩnh Long, Cần Thơ).", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "locationInProvince": "Nhiều tỉnh (Tiền Giang, Vĩnh Long, Cần Thơ)", "openingHours": "Theo tour", "entranceFee": "Tour hoặc phí vào vườn", "travelTips": "Mùa sầu riêng 5–8.", "bestTimeToVisit": "Sáng" },
+        { "name": "Bến Tre", "description": "Vương quốc dừa; tour thuyền, làng kẹo dừa và homestay.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Tỉnh Bến Tre", "openingHours": "Tour theo ngày", "entranceFee": "Tour", "travelTips": "Tour 1 ngày từ TP.HCM hoặc Cần Thơ.", "bestTimeToVisit": "Cả ngày" },
+        { "name": "Bến Ninh Kiều & Cầu đi bộ Cần Thơ", "description": "Khu trung tâm Cần Thơ bên sông Hậu; cầu đi bộ, công viên và quán ăn. Điểm xuất phát tour chợ nổi và dạo phố về đêm.", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "locationInProvince": "Quận Ninh Kiều, Cần Thơ", "openingHours": "Công cộng 24/24", "entranceFee": "Không", "travelTips": "Ăn tối ven sông; đặt tour chợ nổi từ đây.", "bestTimeToVisit": "Chiều tối" },
+        { "name": "Rừng tràm Trà Sư", "description": "Rừng tràm xanh mướt ở An Giang; đi thuyền hoặc xuồng qua kênh, ngắm chim và hệ sinh thái ngập nước.", "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800", "locationInProvince": "Huyện Tịnh Biên, An Giang", "openingHours": "Sáng sớm–chiều (tour)", "entranceFee": "Vé + thuyền (khoảng 100.000–150.000 VND)", "travelTips": "Đi sáng sớm mát và nhiều chim; mang nón, thuốc côn trùng.", "bestTimeToVisit": "Mùa nước nổi (9–11) hoặc mùa khô" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Cơm tấm", "description": "Cơm gạo tấm với sườn, bì; phổ biến Nam Bộ." }, { "name": "Bún nước lèo", "description": "Bún nước với cá, mắm và rau." }, { "name": "Lẩu mắm", "description": "Lẩu nước mắm với cá, rau." }], "localSnacks": ["Kẹo dừa Bến Tre", "Trái cây tươi", "Bánh pía"], "marketsOrRestaurants": "Chợ nổi (ăn sáng); nhà vườn (ăn trái); quán ven sông Cần Thơ.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Trái cây đồng bằng" }] },
+      "accommodation": { "luxury": ["Victoria Can Tho", "Azerai Can Tho"], "midRange": ["Khách sạn Cần Thơ (Ninh Kiều)", "Khách sạn Mỹ Tho"], "budget": ["Homestay vườn (Cần Thơ, Bến Tre)", "Nhà nghỉ thị xã"], "notableResorts": ["Victoria Can Tho", "Homestay vườn"], "suggestedAreas": "Cần Thơ (Ninh Kiều – tiện chợ nổi); Bến Tre (homestay vườn); Vĩnh Long." },
+      "transportation": { "howToGetThere": { "bus": "Xe từ TP.HCM đến Cần Thơ (4h), Mỹ Tho (2h), Bến Tre.", "car": "Quốc lộ 1A, cao tốc TP.HCM – Trung Lương." }, "withinCity": "Thuyền (chợ nổi, tour); xe máy; taxi.", "estimatedTimes": "TP.HCM – Cần Thơ: 4h; TP.HCM – Mỹ Tho: 2h; Cần Thơ – chợ nổi: 30 phút thuyền." },
+      "itinerary": { "oneDay": ["Sáng sớm: Chợ nổi Cái Răng (từ Cần Thơ)", "Trưa: Vườn trái cây hoặc về Cần Thơ", "Chiều: Bến Ninh Kiều, ăn tối"], "twoDay": ["Ngày 1: TP.HCM – Cần Thơ, chợ nổi sáng, vườn trái cây", "Ngày 2: Bến Tre (tour dừa, kẹo dừa) hoặc về TP.HCM"], "threeDay": ["Ngày 1: Đi Cần Thơ, chợ nổi", "Ngày 2: Vườn trái cây, Cần Thơ", "Ngày 3: Bến Tre hoặc Vĩnh Long, về TP.HCM"] },
+      "practicalTips": { "safety": "Đi thuyền mặc áo phao; cẩn thận khi đi trên ghe.", "weather": "Mùa mưa nước lên; mang ô, thuốc côn trùng.", "whatToPrepare": "Nón, kem chống nắng; tiền mặt.", "localEtiquette": "Hỏi trước khi chụp ảnh người bán trên chợ nổi." }
+    },
+    {
+      "id": "da-lat",
+      "name": "Đà Lạt",
+      "province": "Lâm Đồng",
+      "tagline": "Thành phố hoa và hồ trên cao nguyên",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "description": "Đà Lạt với khí hậu mát, biệt thự Pháp, vườn hoa và đồn điền cà phê là điểm nghỉ dưỡng trên cao nguyên.",
+      "attractions": ["Hồ Xuân Hương", "Biệt thự Hằng Nga (Crazy House)", "Vườn hoa Đà Lạt", "Thiền viện Trúc Lâm", "Đồn điền cà phê", "Thác Pongour"],
+      "cultural": ["Di sản hill station Pháp", "Trồng hoa và rau", "Văn hóa cà phê Việt", "Du lịch lãng mạn địa phương"],
+      "tips": ["Mang áo khoác—tối mát", "Thuê xe máy đi vùng ngoại ô", "Thử trà atisô và dâu địa phương"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "alt": "Hồ Xuân Hương", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Kiến trúc Biệt thự Hằng Nga", "category": "địa danh" },
+        { "url": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "alt": "Vườn hoa", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Thăm đồn điền cà phê", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Trà atisô và sản phẩm địa phương", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800", "alt": "Biệt thự thời Pháp", "category": "văn hóa" }
+      ],
+      "events": [
+        { "name": "Festival Hoa Đà Lạt", "dates": "2 năm một lần, cuối tháng 12 – đầu tháng 1", "description": "Diễu hành xe hoa, triển lãm và trưng bày vườn. Tôn vinh Đà Lạt—thành phố hoa.", "significance": "Sự kiện lớn nhất Tây Nguyên; rất đẹp để chụp ảnh.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=600", "recommendedThingsToDo": ["Xem diễu hành xe hoa", "Thăm vườn hoa", "Chụp ảnh"] },
+        { "name": "Tuần Văn hóa Trà – Cà phê Đà Lạt", "dates": "Tháng 12", "description": "Giới thiệu văn hóa trà và cà phê. Thăm đồn điền, thưởng thức và sự kiện văn hóa.", "significance": "Lý tưởng cho người yêu trà và cà phê.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=600", "recommendedThingsToDo": ["Thăm đồn điền", "Nếm trà, cà phê", "Mua đặc sản"] }
+      ],
+      "overview": { "introduction": "Đà Lạt là thành phố cao nguyên mát mẻ với biệt thự Pháp, vườn hoa, hồ Xuân Hương và đồn điền cà phê. Điểm nghỉ dưỡng lãng mạn.", "historicalBackground": "Người Pháp xây dựng Đà Lạt như station climatique từ đầu thế kỷ XX; nhiều biệt thự và dinh thự còn lại.", "whyFamous": "Khí hậu mát; vườn hoa; Crazy House; hồ Xuân Hương; cà phê, trà atisô; dâu tây; đồn điền." },
+      "detailedInfo": { "geography": { "location": "Cao nguyên Lâm Viên, tỉnh Lâm Đồng; cao khoảng 1.500 m.", "climate": "Ôn đới cao nguyên; mát quanh năm; đêm lạnh.", "bestSeason": "Tháng 11–4: khô, đẹp; tháng 12–1 Festival Hoa." }, "history": { "summary": "Đà Lạt được quy hoạch từ 1893; phát triển thành thành phố nghỉ dưỡng và giáo dục.", "keyEvents": ["1893: Bác sĩ Yersin khám phá", "Thế kỷ XX: Xây dựng biệt thự, dinh Bảo Đại"] }, "culture": { "customs": "Văn hóa cà phê; trồng hoa, rau; du lịch lãng mạn; đồ thủ công (len, gỗ).", "heritage": "Biệt thự Pháp; Dinh Bảo Đại; ga Đà Lạt." } },
+      "topAttractions": [
+        { "name": "Hồ Xuân Hương", "description": "Hồ nhân tạo giữa trung tâm; dạo bộ, đạp xe vịt hoặc ngồi quán cà phê.", "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800", "locationInProvince": "Trung tâm Đà Lạt", "openingHours": "Quanh ngày", "entranceFee": "Không", "travelTips": "Sáng sớm hoặc chiều có sương.", "bestTimeToVisit": "Sáng, chiều" },
+        { "name": "Biệt thự Hằng Nga (Crazy House)", "description": "Kiến trúc độc đáo như công viên điêu khắc; có thể ở qua đêm.", "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "locationInProvince": "Đường Huỳnh Thúc Kháng", "openingHours": "8:30–19:00", "entranceFee": "Khoảng 60.000 VND", "travelTips": "Mang giày thoải mái; leo cầu thang hẹp.", "bestTimeToVisit": "Sáng" },
+        { "name": "Thiền viện Trúc Lâm", "description": "Thiền viện lớn bên hồ Tuyền Lâm; view đẹp, không khí tĩnh lặng.", "image": "https://images.unsplash.com/photo-1583417319070-4a69db38a028?w=800", "locationInProvince": "Hồ Tuyền Lâm", "openingHours": "7:00–17:00", "entranceFee": "Miễn phí (cáp treo riêng)", "travelTips": "Mặc kín đáo; đi cáp treo hoặc xe.", "bestTimeToVisit": "Sáng" },
+        { "name": "Thác Pongour", "description": "Thác rộng nhiều tầng giữa rừng; đẹp sau mùa mưa.", "image": "https://images.unsplash.com/photo-1473496169904-8a79f6c4a88d?w=800", "locationInProvince": "Huyện Đức Trọng", "openingHours": "7:00–17:00", "entranceFee": "Khoảng 20.000 VND", "travelTips": "Mang giày chống trơn.", "bestTimeToVisit": "Mùa mưa" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Bánh ướt lòng gà", "description": "Bánh ướt ăn với lòng gà, rau." }, { "name": "Dâu tây Đà Lạt", "description": "Dâu tươi và các món từ dâu." }, { "name": "Trà atisô", "description": "Trà atisô đặc sản cao nguyên." }], "localSnacks": ["Kem bơ", "Bánh mì xíu mại", "Sữa đậu nành nóng"], "marketsOrRestaurants": "Chợ Đà Lạt; quán bánh ướt; quán cà phê view hồ.", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Ẩm thực Đà Lạt" }] },
+      "accommodation": { "luxury": ["Dalat Palace", "Ana Mandara Villas"], "midRange": ["Khách sạn view hồ", "Terracotta Hotel"], "budget": ["Hostel gần chợ", "Homestay"], "notableResorts": ["Dalat Palace", "Ana Mandara"], "suggestedAreas": "Gần hồ Xuân Hương (trung tâm); đường Trần Hưng Đạo (view); gần chợ (ăn uống)." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Liên Khương (30 km); taxi 45 phút.", "bus": "Xe từ TP.HCM (7–8h), Nha Trang (5h)." }, "withinCity": "Xe máy thuê; taxi; xe đạp; xe Lam.", "estimatedTimes": "TP.HCM – Đà Lạt: 7–8h; Sân bay – trung tâm: 45 phút." },
+      "itinerary": { "oneDay": ["Sáng: Hồ Xuân Hương, Crazy House", "Trưa: Chợ Đà Lạt, ăn", "Chiều: Thiền viện Trúc Lâm hoặc vườn hoa"], "twoDay": ["Ngày 1: Hồ Xuân Hương, Crazy House, chợ", "Ngày 2: Thiền viện Trúc Lâm, thác Pongour hoặc đồn điền cà phê"], "threeDay": ["Ngày 1: Trung tâm (hồ, Crazy House, chợ)", "Ngày 2: Trúc Lâm, thác Pongour", "Ngày 3: Đồn điền cà phê, Dinh Bảo Đại, ga Đà Lạt"] },
+      "practicalTips": { "safety": "Đường đồi; lái xe cẩn thận khi trời mù.", "weather": "Luôn mang áo khoác; đêm lạnh.", "whatToPrepare": "Áo ấm, ô; tiền mặt.", "localEtiquette": "Vào thiền viện, chùa mặc kín đáo." }
+    },
+    {
+      "id": "phu-quoc",
+      "name": "Phú Quốc",
+      "province": "Kiên Giang",
+      "tagline": "Thiên đường đảo biển và rừng",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800",
+      "description": "Phú Quốc—đảo lớn nhất Việt Nam—có bãi cát trắng, lặn ống thở, đồn điền tiêu và khu nghỉ dưỡng đang phát triển.",
+      "attractions": ["Bãi Dài", "Bãi Sao", "Vườn quốc gia Phú Quốc", "Chợ đêm Dinh Cầu", "Đồn điền tiêu", "Lặn ống thở và lặn biển"],
+      "cultural": ["Đánh bắt và sản xuất nước mắm", "Trồng tiêu", "Phong cách đảo thư thái"],
+      "tips": ["Thuê xe máy khám phá", "Đi chợ đêm ăn hải sản", "Đặt tour lặn trước"],
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "alt": "Hoàng hôn Bãi Dài", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "alt": "Bãi Sao và cây dừa", "category": "phong cảnh" },
+        { "url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800", "alt": "Lặn ống thở và lặn biển", "category": "hoạt động" },
+        { "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "alt": "Hải sản chợ đêm", "category": "ẩm thực" },
+        { "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "alt": "Đồn điền tiêu", "category": "văn hóa" },
+        { "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800", "alt": "Đình Dinh Cầu và hải đăng", "category": "địa danh" }
+      ],
+      "events": [
+        { "name": "Lễ hội Biển Phú Quốc", "dates": "Tháng 4", "description": "Sự kiện biển, thể thao nước, tiệc hải sản và biểu diễn văn hóa. Nổi bật sức hút biển và ẩm thực đảo.", "significance": "Lễ hội đảo cao điểm; phù hợp gia đình.", "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600", "recommendedThingsToDo": ["Thể thao nước", "Ăn hải sản lễ hội", "Xem biểu diễn"] },
+        { "name": "Lễ hội Nước mắm", "dates": "2 năm một lần", "description": "Tôn vinh nước mắm Phú Quốc nổi tiếng. Thăm nhà thùng, nếm thử và ẩm thực địa phương.", "significance": "Độc đáo di sản đánh bắt Phú Quốc.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=600", "recommendedThingsToDo": ["Thăm nhà thùng nước mắm", "Nếm nước mắm", "Mua đặc sản"] }
+      ],
+      "overview": { "introduction": "Phú Quốc là đảo lớn nhất Việt Nam với bãi cát trắng, rừng nguyên sinh và làng chài. Bãi Dài, Bãi Sao và vườn quốc gia thu hút du khách.", "historicalBackground": "Đảo từng là nơi sản xuất nước mắm và hạt tiêu; phát triển du lịch mạnh từ những năm 2010.", "whyFamous": "Bãi biển đẹp; lặn ống thở; nước mắm Phú Quốc; tiêu; chợ đêm Dinh Cầu; vườn quốc gia." },
+      "detailedInfo": { "geography": { "location": "Vịnh Thái Lan, tỉnh Kiên Giang; đảo cách Rạch Giá khoảng 120 km.", "climate": "Nhiệt đới; mùa khô 11–4; mùa mưa 5–10.", "bestSeason": "Tháng 11–4: nắng đẹp; tránh mùa mưa." }, "history": { "summary": "Phú Quốc có lịch sử đánh bắt và làm nước mắm; sau 2010 sân bay và resort phát triển.", "keyEvents": ["Truyền thống nước mắm và tiêu", "2012: Sân bay quốc tế Phú Quốc"] }, "culture": { "customs": "Làng chài; nhà thùng nước mắm; trồng tiêu; chợ đêm và ẩm thực hải sản.", "heritage": "Vườn quốc gia Phú Quốc; làng chài; nước mắm." } },
+      "topAttractions": [
+        { "name": "Bãi Dài", "description": "Bãi cát dài, nước trong; resort và quán bar; hoàng hôn đẹp.", "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800", "locationInProvince": "Bờ tây đảo", "openingHours": "Công cộng", "entranceFee": "Không", "travelTips": "Thuê xe máy; có resort và quán.", "bestTimeToVisit": "Chiều hoàng hôn" },
+        { "name": "Bãi Sao", "description": "Bãi cát trắng hình vầng trăng; nước trong, phù hợp gia đình.", "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800", "locationInProvince": "Phía nam đảo", "openingHours": "Quanh ngày", "entranceFee": "Giữ xe (phí nhỏ)", "travelTips": "Đi sớm tránh đông; mang đồ bơi.", "bestTimeToVisit": "Sáng" },
+        { "name": "Chợ đêm Dinh Cầu", "description": "Chợ đêm ẩm thực và hải sản; ăn tối, mua quà.", "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800", "locationInProvince": "Dinh Cầu (thị trấn Dương Đông)", "openingHours": "17:00–24:00", "entranceFee": "Không", "travelTips": "Nên thử hải sản nướng, ghẹ.", "bestTimeToVisit": "Tối" },
+        { "name": "Vườn quốc gia Phú Quốc", "description": "Rừng nguyên sinh; trekking, thác và động vật.", "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800", "locationInProvince": "Phía bắc và đông bắc đảo", "openingHours": "7:00–17:00", "entranceFee": "Khoảng 40.000 VND", "travelTips": "Mang giày trekking, nước; đi với guide nếu trek sâu.", "bestTimeToVisit": "Sáng" }
+      ],
+      "food": { "traditionalDishes": [{ "name": "Hải sản nướng", "description": "Tôm, cua, ghẹ, ốc nướng tại chợ đêm và bãi biển." }, { "name": "Nước mắm Phú Quốc", "description": "Nước mắm ủ cá cơm truyền thống; thăm nhà thùng." }, { "name": "Tiêu Phú Quốc", "description": "Hạt tiêu đen, trắng từ đồn điền đảo." }], "localSnacks": ["Sim wine", "Gỏi cá trích"], "marketsOrRestaurants": "Chợ đêm Dinh Cầu; quán bãi Dài, Bãi Sao; nhà thùng nước mắm (tour).", "dishImages": [{ "url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=400", "alt": "Hải sản Phú Quốc" }] },
+      "accommodation": { "luxury": ["JW Marriott Phu Quoc", "Regent Phu Quoc"], "midRange": ["Resort Bãi Dài", "La Veranda"], "budget": ["Hostel Dương Đông", "Homestay bãi Ông Lang"], "notableResorts": ["JW Marriott", "Salinda", "InterContinental"], "suggestedAreas": "Bãi Dài (resort, hoàng hôn); Dương Đông (gần chợ đêm, sân bay); Bãi Sao (gần biển đẹp)." },
+      "transportation": { "howToGetThere": { "plane": "Sân bay Phú Quốc (quốc tế); taxi 15–30 phút tùy bãi.", "ferry": "Phà Rạch Giá – Phú Quốc (2,5h); Superdong, Duong Dong." }, "withinCity": "Xe máy thuê (phổ biến); taxi; xe ôm.", "estimatedTimes": "Sân bay – Dương Đông: 15 phút; Sân bay – Bãi Dài: 30 phút; Rạch Giá – Phú Quốc: 2,5h phà." },
+      "itinerary": { "oneDay": ["Sáng: Bãi Sao hoặc Bãi Dài", "Trưa: Hải sản", "Chiều: Vườn quốc gia hoặc đồn điền tiêu", "Tối: Chợ đêm Dinh Cầu"], "twoDay": ["Ngày 1: Bãi Sao, chợ đêm", "Ngày 2: Bãi Dài, lặn hoặc nhà thùng nước mắm"], "threeDay": ["Ngày 1: Bãi Sao, Dương Đông", "Ngày 2: Lặn/snorkeling, Bãi Dài", "Ngày 3: Vườn quốc gia, đồn điền tiêu, chợ đêm"] },
+      "practicalTips": { "safety": "Cẩn thận khi tắm biển (dòng chảy); xe máy đường đảo.", "weather": "Mùa mưa sóng lớn; tránh lặn khi biển động.", "whatToPrepare": "Kem chống nắng; tiền mặt (nhiều nơi không quẹt thẻ).", "localEtiquette": "Không xả rác; tôn trọng rạn san hô khi lặn." }
+    }
+  ]
+}

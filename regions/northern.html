@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Khám phá Miền Bắc Việt Nam: Hà Nội, Vịnh Hạ Long, Sa Pa, Ninh Bình. Văn hóa thủ đô, di sản UNESCO, ruộng bậc thang và đền chùa cổ.">
+  <meta name="keywords" content="Miền Bắc, Hà Nội, Vịnh Hạ Long, Sa Pa, Ninh Bình, Quảng Ninh, Lào Cai">
+  <title>Miền Bắc Việt Nam | Du lịch Việt Nam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo">Du lịch <span>Việt Nam</span></a>
+      <nav class="nav-main" aria-label="Điều hướng chính">
+        <a href="../index.html">Trang chủ</a>
+        <a href="northern.html" aria-current="page">Miền Bắc</a>
+        <a href="central.html">Miền Trung</a>
+        <a href="southern.html">Miền Nam</a>
+        <a href="../map.html">Bản đồ</a>
+        <button type="button" id="search-trigger" class="search-trigger" aria-label="Mở tìm kiếm">Tìm kiếm</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <nav class="breadcrumb">
+          <a href="../index.html">Trang chủ</a><span>/</span> Miền Bắc
+        </nav>
+        <h1 class="section-title">Miền Bắc Việt Nam</h1>
+        <div class="region-intro">
+          <p>Miền Bắc là nơi có thủ đô Hà Nội, cảnh biển đảo UNESCO Vịnh Hạ Long, ruộng bậc thang Sa Pa và cảnh "Hạ Long trên cạn" Ninh Bình. Trải nghiệm lịch sử phong phú, văn hóa đồng bào dân tộc và một số cảnh quan biểu tượng nhất Việt Nam.</p>
+        </div>
+        <div class="dest-grid">
+          <article class="dest-card">
+            <a href="../destinations/hanoi.html">
+              <img src="https://gonow.com.vn/wp-content/uploads/2024/05/du-lich-ha-noi-1-ngay-1.jpg" alt="Hà Nội" width="600" height="400">
+              <div class="card-body">
+                <h3>Hà Nội</h3>
+                <p class="tagline">Thủ đô ngàn năm văn hiến</p>
+                <span class="province">Hà Nội</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/halong-bay.html">
+              <img src="https://tructhang.vn/wp-content/uploads/2022/08/Vinh-Ha-Long-1024x576.jpg" alt="Vịnh Hạ Long" width="600" height="400">
+              <div class="card-body">
+                <h3>Vịnh Hạ Long</h3>
+                <p class="tagline">Di sản thiên nhiên thế giới UNESCO</p>
+                <span class="province">Quảng Ninh</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/sapa.html">
+              <img src="https://cdn.baolaocai.vn/images/2c77a1fcf62764f842a62d823ed57061a8cec174a200849bfc759cfde097ca87/sapa-2.jpg" alt="Sa Pa" width="600" height="400">
+              <div class="card-body">
+                <h3>Sa Pa</h3>
+                <p class="tagline">Ruộng bậc thang và đồng bào dân tộc</p>
+                <span class="province">Lào Cai</span>
+              </div>
+            </a>
+          </article>
+          <article class="dest-card">
+            <a href="../destinations/ninh-binh.html">
+              <img src="https://vj-prod-website-cms.s3.ap-southeast-1.amazonaws.com/r4-1716261646253.jpg" alt="Ninh Bình" width="600" height="400">
+              <div class="card-body">
+                <h3>Ninh Bình</h3>
+                <p class="tagline">Hạ Long trên cạn</p>
+                <span class="province">Ninh Bình</span>
+              </div>
+            </a>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div><h4>Vùng miền</h4><ul><li><a href="northern.html">Miền Bắc</a></li><li><a href="central.html">Miền Trung</a></li><li><a href="southern.html">Miền Nam</a></li></ul></div>
+        <div><h4>Khám phá</h4><ul><li><a href="../map.html">Bản đồ tương tác</a></li></ul></div>
+      </div>
+      <div class="footer-bottom"><p>&copy; Du lịch Việt Nam.</p></div>
+    </div>
+  </footer>
+
+  <div id="search-overlay" class="search-overlay" role="dialog" aria-label="Tìm kiếm điểm đến" aria-modal="true">
+    <button type="button" id="search-close" class="search-close" aria-label="Đóng tìm kiếm">&times;</button>
+    <div class="search-box-wrap">
+      <label for="search-input" class="sr-only">Tìm tỉnh hoặc điểm đến</label>
+      <input type="search" id="search-input" class="search-input" placeholder="Tìm tỉnh hoặc điểm đến..." autocomplete="off">
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
+  <script src="../js/app.js"></script>
+</body>
+</html>

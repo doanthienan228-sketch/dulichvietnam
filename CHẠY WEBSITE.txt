@@ -1,0 +1,20 @@
+DU LỊCH VIỆT NAM - CÁCH CHẠY WEBSITE
+====================================
+
+CÁCH 1 - Mở nhanh (chỉ xem trang, không tìm kiếm/bản đồ/nội dung động):
+   • Double-click vào file: index.html
+   • Hoặc kéo index.html vào trình duyệt (Chrome, Edge, Firefox...)
+
+CÁCH 2 - Chạy đầy đủ (tìm kiếm, bản đồ, thư viện ảnh, sự kiện):
+   Mở terminal/CMD trong thư mục này (vietnam-tourism), chạy một trong các lệnh:
+
+   • Node.js:    npx serve .
+   • Python 3:   python -m http.server 8080
+
+   Sau đó mở trình duyệt vào: http://localhost:3000  (serve) hoặc http://localhost:8080  (python)
+
+Cấu trúc:
+   index.html       = Trang chủ
+   map.html         = Bản đồ tương tác
+   regions/         = Miền Bắc, Miền Trung, Miền Nam
+   destinations/    = 12 điểm đến (Hà Nội, Vịnh Hạ Long, Hội An, ...)
